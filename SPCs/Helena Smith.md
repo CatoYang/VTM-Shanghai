@@ -1,4 +1,5 @@
 Clan: [[Ventrue (玉门 - Yù Mén)]]
+Position:
 Political allegiance: 
 Factional allegiance: Camarilla
 

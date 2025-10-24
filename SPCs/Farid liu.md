@@ -1,4 +1,5 @@
 Clan: [[Banu Haqim (判官堂 - Pàn Guān Táng)]]
+Position: 
 Political allegiance: 
 Factional allegiance: Camarilla
 
