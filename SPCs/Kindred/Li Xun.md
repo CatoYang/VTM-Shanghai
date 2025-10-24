@@ -5,5 +5,7 @@ Factional allegiance: Camarilla
 
 Chubby, scholarly looking man. Not much is known about him
 
+Night 
+
 #Tremere
 #Camarilla 

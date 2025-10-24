@@ -5,7 +5,19 @@
 ---
 
 1. Wen tells all assembled a wight is at large, a Kindred lost to the Beast. The Masquerade is threatened. The fledgings were tasked to track it down, and either destroy it or bring it back for justice. A quick count later, the fledgings were told four Kindreds are unaccounted for. They were also asked to check in with the 夜革盟 (Yè Gé Méng), another faction, at Chaipei.
-    
+
+Missing people
+2 tremere
+[[Li Xun]]
+[[Xu Wen Jie]]
+
+1 malkavian
+[[Wu Yan Hua]]
+
+1 Toreador
+[[Wang Yue]] 
+
+
 2. The group, bounded now by a job, visits Wang Yue, a Banhua Kindred, who Jacques say is one of the richer Kindred around. They vist her at the Huixingting Teahouse, a place where gentlemen meet cultured ladies of the night. There, they meet a petite woman, with classical Chinese looks, round eyes and delicate features. A Shanghainese. She tells them that Xu Wenjie, one of the two Kindreds from the Nine Seals Clan was at her place three weeks ago. He left behind a disturbing sigil. She titters: imagine, one of the Nine Seals Clan losing control. The scandal.
 3. Next, they visit Li Xuan, the senior Nine Seals Clan Kindred at the Aurora University in the French Concession. They find him in the library. Before they can ask him much, he questions them on what they intend to do with their immortality, Shown the sigil, he says it's a blashemy. But refused to say more. He hadn't seen his childe Xu for months, though he had heard Xu was consorting with the 夜革盟.
 

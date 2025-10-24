@@ -4,4 +4,6 @@ Outcasts and spies, feeding on Shanghai’s underworld of opium dens, alleys, an
 
 Members
 [[Old Crow]] - Leader
-[[Hong Yee]]
+[[Hong Yee]] - Public face, Ugly man.
+
+
