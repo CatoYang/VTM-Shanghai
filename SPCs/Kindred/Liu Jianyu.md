@@ -1,7 +1,7 @@
 Clan: [[Ventrue (玉门 - Yù Mén)]]
 Position: Sheriff
 Political allegiance: 
-Factional allegiance: Camarilla
+Factional allegiance: [[Camarilla (Veil Alliance)]]
 
 AKA - The Sheriff
 

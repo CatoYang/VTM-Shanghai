@@ -1,10 +1,10 @@
 Clan: [[Malkavian (疯道堂 - Fēng Dào Táng)]]
 Position: 
 Political allegiance: 
-Factional allegiance: [[The Camarilla (Veil Alliance)]]
+Factional allegiance: [[Camarilla (Veil Alliance)]]
 Sire:
 Generation: old
-Location/Domain:
+Location/Domain: The Old City
 
 Was missing during the S1 gathering
 Lives in a run down house in old city, has a ghoul servant

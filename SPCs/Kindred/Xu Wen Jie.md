@@ -1,7 +1,7 @@
 Clan: [[Tremere (九印门 - Jiǔ Yìn Mén)]]
 Position: 
 Political allegiance: 
-Factional allegiance: Ex-Camarilla. 
+Factional allegiance: Ex-Camarilla?
 Sire: [[Li Xuan]]
 Generation:
 Location/Domain:

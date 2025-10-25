@@ -1,10 +1,10 @@
 Clan: 
-Position: 
+Position: Tao Wu Priest
 Political allegiance: 
 Factional allegiance: Camarilla
 Sire:
 Generation:
-Location/Domain:
+Location/Domain: [[Temple of Tao Wu]]
 
 #S2  
 Gave a sermon
