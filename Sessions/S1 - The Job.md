@@ -8,7 +8,7 @@
 
 Missing people
 2 tremere
-[[Li Xun]]
+[[Li Xuan]]
 [[Xu Wen Jie]]
 
 1 malkavian
