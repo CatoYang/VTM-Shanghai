@@ -7,3 +7,5 @@ Generation: 11th
 Feeding Grounds: 
 
 Has a retainer, "wee"
+
+#Ventrue 

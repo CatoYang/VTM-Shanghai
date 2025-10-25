@@ -27,3 +27,5 @@ Missing people
 - Zhao Liling, the clan leader for the Jade House, has been referred to as the 右使 (You Shi) Right-Hand Emissary for the Prince, who has gone missing.
 - There seems to be a Council of Elders that decides matter in the Veiled Alliance in the absence of the Prince.
 - The Prince hadn't been seen in a couple of months.
+
+#S1 

@@ -5,3 +5,5 @@ Generation:
 Feeding Grounds: Old City
 
 Martial Artist
+
+#brujah 
