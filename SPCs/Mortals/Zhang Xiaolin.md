@@ -1,0 +1,6 @@
+![[Pasted image 20251027164052.png]]
+Zhang Xiaolin (張嘯林 /张啸林, _Zhāng Xiàolín_) (1877-1940), born in Cixy Country, Zhejiang, began his working life as machinist in Hangzhou, where he was first acquainted with the underworld. Sometimes in the 1900s, he entered the Zhejiang Military Preparatory School but left without graduating. Working as a ‘runner’ for the Chief Detective of the Hangzhou Prefecture, Zhang earned quite some money by extorting the local peasants. He moved to Shanghai in 1919 to get into gambling and prostitution.
+
+At some point, he became member of the Green Gang of the Tong generational status. Zhang Xiaolin began recruiting followers for his faction and eventually made contact with Huang Jinrong and Du Yuesheng. A tall, distinguished-looking man with a higher degree of literacy, he was to play a central role in the rise if the French Concession Green Gang in the 1920s. Unfortunately for him, the man was also known for his unpredictability, opium addiction and erratic fits of violence; he was even rumoured to have fed an unfaithful mistress to his pet tiger. Zhang Xiaolin resented the influence and legitimacy of Du Yuesheng in the group, nourishing a lasting but contaned feud with him.
+
+[[French Concession Green Gang]]

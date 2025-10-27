@@ -2,7 +2,7 @@ The Prince is missing and in his absence, the council of elders are running the 
 Zhao Li Ling is referred to as the 右使 (You Shi) Right-Hand Emissary for the Prince
 
 The council?  
-[[Farid liu]]  
+[[Farid (Fang Liu)]]  
 [[Old Crow]] - Nosferatu Leader  
 [[Takahashi Renjiro]] - Brujah leader  
 [[Madam Meixiu Chanel]] - Toreador Leader  
