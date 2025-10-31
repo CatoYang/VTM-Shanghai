@@ -5,6 +5,8 @@ Factional allegiance: [[Camarilla (Veil Alliance)]]
 
 Chubby, scholarly looking man. Not much is known about him
 
+#S2 #S3 
+
 Night 
 
 #Tremere
