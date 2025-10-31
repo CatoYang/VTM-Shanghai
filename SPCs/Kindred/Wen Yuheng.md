@@ -6,5 +6,7 @@ Progeny: [['He' Wen Xia]]
 
 a distinguished silver-haired gentleman dating back to the earlier years of the Qing Dynasty, Sire of 'He'. He seems to have some kind of senior status and is respected by all.
 
+Domain: Old City
+
 #Ventrue
 #Camarilla

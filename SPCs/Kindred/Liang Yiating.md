@@ -7,5 +7,7 @@ Progeny: [[Moi Yan]]
 
 - Liang Yiating, the host for the Hall of Tranquility, a willowy, soft-spoken Chinese woman who makes everybody feels at ease. She is Moi's Sire. One of the richest Kindred in Shanghai.
 
+Domain: Mostly french concession?
+
 #Ventrue 
 #Camarilla 

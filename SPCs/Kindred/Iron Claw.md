@@ -1,1 +1,1 @@
- 
+ Leader of the [[Anarchs (Night Front)]]

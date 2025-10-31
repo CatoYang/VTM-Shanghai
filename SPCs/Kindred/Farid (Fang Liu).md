@@ -11,5 +11,7 @@ speaks fluent Mandarin, Cantonese, Shanghainese and English.
 - Introduced as the Veiled Alliance's investigator
 - Had to apologize to Chen Wei for Zhou's atrocious behavior in attacking Sam.
 
+Domain is in old city.
 #Banu-Haqim
 #Camarilla 
+
