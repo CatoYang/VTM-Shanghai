@@ -3,11 +3,13 @@ Position:
 Political allegiance: 
 Factional allegiance: [[Camarilla (Veil Alliance)]]
 
-Chubby, scholarly looking man. Not much is known about him
+Chubby, scholarly looking man. Not much is known about him.
 
-#S2 #S3 
+#S1 
+#S2
+#S3 
+Is investigating the blood sorcery and the last known Tremere in shanghai
 
-Night 
 
 #Tremere
 #Camarilla 

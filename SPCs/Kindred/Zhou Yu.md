@@ -13,3 +13,6 @@ Sex: Male
 Met at the [[The Shanghai Club]]
 Claims to be old.
 Gave some lore regarding lineages and the [[Temple of Tao Wu]]
+
+#Ventrue 
+#Camarilla 

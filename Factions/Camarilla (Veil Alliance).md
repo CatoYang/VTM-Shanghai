@@ -7,6 +7,5 @@ The council?
 [[Takahashi Renjiro]] - Brujah leader  
 [[Madam Meixiu Chanel]] - Toreador Leader  
 [[Zhao Li Ling]] - Camarilla Leader
-
 [[Liu Jianyu]] -Sheriff  
 

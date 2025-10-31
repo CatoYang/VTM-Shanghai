@@ -11,3 +11,4 @@ Sex:
 Representative of [[Sophia Antonov]]
 
 #S3 
+#Ghoul 

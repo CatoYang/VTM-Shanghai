@@ -12,6 +12,11 @@ speaks fluent Mandarin, Cantonese, Shanghainese and English.
 - Had to apologize to Chen Wei for Zhou's atrocious behavior in attacking Sam.
 
 Domain is in old city.
+
+#S1 
+#S2 
+#S3 
+
 #Banu-Haqim
 #Camarilla 
 

@@ -15,8 +15,8 @@ Its broken up into 3 main gangs
 
 [[Gu Zhuxuan’s group (Zhabei and Hongkou)]]
 [[French Concession Green Gang]]
+	Affiliated with [[Zhou Haoran]].
 [[Big Eight Mob – International Settlement]]
 
 This is mostly from the following [source](https://riseofthewhitesun.com/index.php/2021/12/18/focus-the-shanghai-green-gang-part-1). (a summary of the gangs for a political game)
 
-Affiliated with [[Zhou Haoran]].

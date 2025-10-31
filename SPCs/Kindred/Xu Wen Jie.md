@@ -12,4 +12,8 @@ Sam claims he is the wight.
 Has a diary that talks of experimenting with blood magic, special opium and the prince.
 Is lost to the beast
 
+#S3 
+Killed, incinerated by [[Liu Jianyu]]
+
 #Tremere 
+#Camarilla 

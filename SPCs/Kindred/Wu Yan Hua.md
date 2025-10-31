@@ -10,8 +10,7 @@ Was missing during the S1 gathering
 Lives in a run down house in old city, has a ghoul servant
 Talks about current events and tells us to visit the temple of tao wu
 
-#### Ling Xiao Yu
-Ghoul servant to Wu yan hua
+[[Ling Xiao Yu]] is her ghoul
 
 
 #malkavian

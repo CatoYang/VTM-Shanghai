@@ -84,3 +84,7 @@ Loves his nightlife, has favourite squeeze
 
 #### Task 2
 secure territory of [[Xu Wen Jie]]
+
+#### Task 3 
+Seek out the opium trial
+

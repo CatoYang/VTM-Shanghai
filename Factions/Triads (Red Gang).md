@@ -1,1 +1,3 @@
-Whoampoa docks, brings opium that eventually brings to green gang
+#S3 
+This gang was mentioned to be operating in the Whampoa docks.
+brings in opium that is eventually fought over by the rival gangs

@@ -11,3 +11,6 @@ Sex:
 Works for old crow, a ghoul of [[Old Crow]]
 
 Was talked to in #S3 
+
+#Camarilla 
+#Ghoul
