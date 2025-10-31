@@ -1,9 +1,6 @@
-Pre-session - Rebuilding characters
-#S3 
+[[Xu Wen Jie]] the wight. Flees and runs out of the window. During the chase, something intercepts him. A halberd swings out and hits him out. [[Zhang]] then proceeds to commit battery on the wight sending it into torpor 
 
-[[Xu Wen Jie]] the wight. Flees and runs out of the window. During the chase, something intercepts him. A halberd swings out and hits him out. A blue man then proceeds to commit battery and take out the wight. 
-
-White haired old man jumped off the roof and the blue man threw the wight to us.
+White haired old man jumped off the roof and [[Zhang]] threw the wight to us.
 They speak shanghai-nese.
 They are from the Iron Claw (eagle claw association)
 They told zhou "when you are tired of their lies come speak with us"
@@ -19,7 +16,7 @@ On learning that there was a offer to take the wight to the [[Temple of Tao Wu]]
 He 
 
 From the transcription at the warehouse, someone was discovered to zhou,
-"The price is not blood, but the end of knowing"
+*"The price is not blood, but the end of knowing"*
 [[Li Xuan]] arrives at the haven and collects samples and warns of the effects of the opium.
 Agents of the Veil alliance comes and burns the place down.
 #### **The Next day**
@@ -58,7 +55,7 @@ Sun yat sen sent [[Chiang Kai-shek]] to russia to study.
 Cant proceed due to damaged reputation.
 
 [[Wu Yan Hua]]'s ghoul is here, tells fille
-'the dragon fought to save shanghai'
+*'the dragon fought to save shanghai'*
 
 'He' attempts to eavesdrop and manipulate herself into more information.
 [[Wang Yue]] claims that the prince has disappeared for months on end to find out who is talking behind his back.
@@ -76,15 +73,16 @@ Liang is impartial or doesnt want this to happen.
 
 **The council member, municipal council**
 - Sir edward markham, british
-has a daughter that goes dancing
+	has a daughter that goes dancing
 - Harold Whitman
-Owes money to green gang
+	Owes money to green gang
 - Peter langan, young american diplomat
-Loves his nightlife, has favourite squeeze
+	Loves his nightlife, has a favourite squeeze
 
 #### Task 2
-secure territory of [[Xu Wen Jie]]
+Potentially secure territory of [[Xu Wen Jie]] and claim a domain
 
 #### Task 3 
-Seek out the opium trial
+Seek out the opium trail, where the corrupted opium came from.
 
+#S3 

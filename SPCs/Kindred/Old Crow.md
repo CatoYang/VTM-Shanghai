@@ -5,7 +5,8 @@ Factional allegiance: [[Camarilla (Veil Alliance)]]
 
 did not show up to S1 meeting
 
-#S3 sent his ghoul [[Victor Ma]] to the party
+#S3 
+Sent his ghoul [[Victor Ma]] to the party
 We learn he is part of the primogen council.
 
 #nosferatu
