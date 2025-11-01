@@ -1,6 +1,6 @@
 ---
-publish: false
-draft: false
+publish: "false"
+draft: true
 ---
 
 ![[{BF54BCD0-39C5-490A-BA6B-10510CC4C44D}.png]]
