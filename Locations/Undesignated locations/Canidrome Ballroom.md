@@ -1,1 +1,5 @@
+---
+publish: false
+---
+
 ![[{A8DDFF3B-E6DC-4F81-833A-FD57AEA6087F}.png]]

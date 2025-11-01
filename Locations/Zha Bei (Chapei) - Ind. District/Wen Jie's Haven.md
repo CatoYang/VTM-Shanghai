@@ -5,5 +5,7 @@ Borders the river, gutted by fire
 Is buzzing with flies about and has bad 'energy about it'
 We are told it was used to store coal and it caught fire 1 month ago.
 
+After the group raided the place and discovered things detailed in sessions 2 and 3. It was subsequently cleaned up by agents of the camarilla
+
 [[Moi Yan]] has initiated plans to buy purchase the property
  
