@@ -1,5 +1,6 @@
 ---
 publish: false
+draft: false
 ---
 
 ![[{FB218BC4-D483-463B-AA11-92AEB8674093}.png]]
