@@ -1,6 +1,6 @@
 ---
-publish: false
-draft: false
+publish: "false"
+draft: true
 ---
 
 This is a repository to collate notes on a ongoing Vampire the Masquarade campaign.

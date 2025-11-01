@@ -1,6 +1,6 @@
 ---
-publish: false
-draft: false
+publish: "false"
+draft: true
 ---
 
 1
