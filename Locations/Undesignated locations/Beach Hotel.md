@@ -1,1 +1,6 @@
+---
+publish: "false"
+draft: true
+---
+
 ![[{756FC755-94ED-4196-A2FC-4A4B2E4590D9}.png]]
