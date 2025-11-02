@@ -1,14 +1,10 @@
-Clan: [[Toreador (百花 - Bǎi Huā)]]
-Position: 
-Political allegiance: 
-Factional allegiance: [[Camarilla (Veil Alliance)]]
-Sire:
-Progeny:
-Generation:
-Location/Domain:
-Sex: 
+---
+tags:
+  - S3
+  - Ghoul
+---
+Clan: [[Toreador (百花 - Bǎi Huā)]]  
+Factional allegiance: [[Camarilla (Veil Alliance)]]  
 
-Representative of [[Sophia Antonov]]
-
-#S3 
-#Ghoul 
+S3 
+Ghoul Representative of [[Sophia Antonov]]  

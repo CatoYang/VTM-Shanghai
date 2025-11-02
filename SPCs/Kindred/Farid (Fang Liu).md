@@ -1,9 +1,14 @@
-Clan: [[Banu Haqim (判官堂 - Pàn Guān Táng)]]
-Position: 
-Political allegiance: 
-Factional allegiance: [[Camarilla (Veil Alliance)]]
-Progeny: [[Zhou Haoran]]
-Generation: 10th
+---
+tags:
+  - Banu-Haqim
+  - Camarilla
+---
+
+Clan: [[Banu Haqim (判官堂 - Pàn Guān Táng)]]  
+Position: Investigator  
+Factional allegiance: [[Camarilla (Veil Alliance)]]  
+Progeny: [[Zhou Haoran]]  
+Generation: 10th  
 
 speaks fluent Mandarin, Cantonese, Shanghainese and English.
 
@@ -13,10 +18,7 @@ speaks fluent Mandarin, Cantonese, Shanghainese and English.
 
 Domain is in old city.
 
-#S1 
-#S2 
-#S3 
-
-#Banu-Haqim
-#Camarilla 
+S1 
+S2 
+S3 
 

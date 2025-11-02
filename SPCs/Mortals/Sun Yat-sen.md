@@ -1,11 +1,9 @@
+---
+tags:
+  - Mortal
+  - S3
+---
 During a conversation between [[Li Xuan]] and [[Chen Wei]], Sun Yat-sen was mentioned to send [[Chiang Kai-shek]] to russia
-#S3 
-
-
-
-
-
-
 
 
 Leader of the [[KuoMinTang]]

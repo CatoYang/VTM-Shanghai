@@ -1,7 +1,12 @@
-Clan: [[Brujah (红旗 - Hóng Qí)]]
-Position: Leader
-Political allegiance: 
-Factional allegiance: [[Camarilla (Veil Alliance)]]
+---
+tags:
+  - Camarilla
+  - Brujah
+---
 
-#brujah 
+Clan: [[Brujah (红旗 - Hóng Qí)]]  
+Position: Leader  
+Factional allegiance: [[Camarilla (Veil Alliance)]]  
+
+
 #Camarilla 

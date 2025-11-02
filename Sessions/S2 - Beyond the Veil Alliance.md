@@ -1,3 +1,8 @@
+---
+tags:
+  - S2
+---
+
 Went to meet [[Wu Yan Hua]] and her ghoul.  
 She is depressed with life with fore told that the wight (he) is part of a plan that he knows not better of. Tells of a reckoning that is coming.  
 Directed to the a temple elsewhere.  
@@ -38,5 +43,3 @@ We entered and the rats smelled wrong and were matted.
 In the first room we found 2 humans tied to chairs, both were catatonic and one was beating his hand mindlessly on a table.  
 Haoran drank a small amount of blood and it was tainted with special opium.  
 The next door was opened and a fight with a wight occurred, it concluded with the wight fleeing.  
-
-#S2 

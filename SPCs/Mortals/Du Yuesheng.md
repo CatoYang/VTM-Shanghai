@@ -1,3 +1,14 @@
+---
+tags:
+  - French-Concession-GG
+  - Mortal
+---
+[[French Concession Green Gang]] Leader  
+
+
+
+### History
+
 ![[Pasted image 20251027163942.png]]
 Du Yuesheng (杜月笙 , _Dù Yuèshēng_) (1888-1951) was certainely the most remarkable members of the trio and the one who reached the highest level of power of them all.
 
@@ -9,4 +20,3 @@ After 1910, Du joined the Green Gang through the local gang leader, acquiring th
 
 His rise became unstoppable after Huang’s arrest in 1924, whom he helped out of prison. Huang stepped down and handed over his empire to Du Yuesheng. Now nicknamed the ‘Grand master’ (宗师/宗師, _Zōngshī)_, Du had a large empire of gambling and opium dens, brothels and protection rackets – even controlling two banks and a a large shipping company. With the tacit support of the French authorities, he was at the head of the opium trafficking in the French Concession, earning a fortune. As the Northern Expedition was progressing toward Shanghai in 1926-1927, Du Yuesheng chose to ally the Guomindang to keep his business running. His help was crucial for crushing the Shanghai March 1927 Insurrection.
 
-[[French Concession Green Gang]]
