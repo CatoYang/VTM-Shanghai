@@ -1,3 +1,8 @@
+---
+tags:
+  - S1
+---
+
 1. Our intrepid fledgings make their way there, to be greeted by Liang Yianting, a gracious host and Sire to Moi. Her place is filled with antiques and classic paintings and poetries. Kindreds and ghouls mingle. This became the first time they were introduced to the rest of society -- their first time at a 和议之地 (Héyì zhī Dì) — Ground of Accord. (Reconning the name.) Their Sires had told them an important matter will be discussed at this gathering of Kindred. For the first time, our fledgings realize that their clans are part of a larger society known as the 隐廷盟, (Ying Ting Meng) The Veiled Alliance.
     
 2. They meet the following Kindred: Jade House Liang Yiating, the host for the Hall of Tranquility, a willowy, soft-spoken Chinese woman who makes everybody feels at ease. She is Moi's Sire. One of the richest Kindred in Shanghai. Liu Jianyu, a lean looking man with thunderous eyebrows, stands and talks like a solider. Fledgings learn that this is the man tasked with making sure Kindreds observe the Masquerade, the law and order of the Veiled Alliance Wen Yuheng, a distinguised silver-haired gentleman dating back to the earlier years of the Qing Dynasty, Sire of He Wenxia. He seems to have some kind of senior status and is respected by all. Helena Smith, a British woman with a long nose and sharp chin, left standing on her own. She tells Fir that she hates pretty woman.

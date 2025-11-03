@@ -1,16 +1,13 @@
-Clan: [[Nosferatu (暗影会 - Àn Yǐng Huì)]]
-Position: 
-Political allegiance: 
-Factional allegiance: [[Camarilla (Veil Alliance)]]
-Sire:
-Progeny:
-Generation:
-Location/Domain:
-Sex: 
+---
+tags:
+  - Ghoul
+  - S3
+  - Camarilla
+---
+Clan: [[Nosferatu (暗影会 - Àn Yǐng Huì)]]  
+Factional allegiance: [[Camarilla (Veil Alliance)]]  
+Sex:  Male  
 
-Works for old crow, a ghoul of [[Old Crow]]
+Works for old crow, a ghoul of [[Old Crow]]  
 
-Was talked to in #S3 
-
-#Camarilla 
-#Ghoul
+Was talked during session 3

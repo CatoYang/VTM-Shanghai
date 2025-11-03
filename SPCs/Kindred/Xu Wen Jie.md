@@ -1,19 +1,17 @@
-Clan: [[Tremere (九印门 - Jiǔ Yìn Mén)]]
-Position: 
-Political allegiance: 
-Factional allegiance: Ex-Camarilla?
-Sire: [[Li Xuan]]
-Generation:
-Location/Domain:
-Sex: Female
+---
+tags:
+  - S2
+  - S3
+  - Tremere
+  - Camarilla
+---
+Clan: [[Tremere (九印门 - Jiǔ Yìn Mén)]]  
+Sire: [[Li Xuan]]  
 
-#S2 
+S2 
 Sam claims he is the wight.
 Has a diary that talks of experimenting with blood magic, special opium and the prince.
 Is lost to the beast
 
-#S3 
+S3 
 Killed, incinerated by [[Liu Jianyu]]
-
-#Tremere 
-#Camarilla 

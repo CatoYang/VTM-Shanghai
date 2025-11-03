@@ -1,3 +1,9 @@
+---
+tags:
+  - Mortal
+  - French-Concession-GG
+---
+[[French Concession Green Gang]] Leader
 Boss of [[Zhou Haoran]]
 
 
@@ -12,4 +18,3 @@ Being a police officer, Huang was always careful not to get directly involved in
 
 Initially the one true master of the French Concession gang, he was outpowered as the 1920s progressed by his sworn borthers Zhang Xiaolin and Du Yuesheng. His relative decline is dated to 1924 when he was arrested by the Chinese Shanghai garrison for having publicly beaten Shanghai’s warlord Lu Yongxiang’s son, Lu Xiaojia. Zhang Xiaolin and Du Yuesheng intervened and paid to have him freed. This led Huang to resign from his position as chief of the Chinese Detective Squad of the French Police and turn his empire over to Du. Despite the immense loss of face and power, he remained an influential mobster, protected by Du Yuesheng, acting as a balance toward Zhang Xiaolin.
 
-[[French Concession Green Gang]]

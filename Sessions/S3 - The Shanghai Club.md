@@ -1,3 +1,8 @@
+---
+tags:
+  - S3
+---
+
 [[Xu Wen Jie]] the wight. Flees and runs out of the window. During the chase, something intercepts him. A halberd swings out and hits him out. [[Zhang]] then proceeds to commit battery on the wight sending it into torpor 
 
 White haired old man jumped off the roof and [[Zhang]] threw the wight to us.
@@ -57,13 +62,15 @@ Cant proceed due to damaged reputation.
 [[Wu Yan Hua]]'s ghoul is here, tells fille
 *'the dragon fought to save shanghai'*
 
+[[Wen Yuheng]] and [['He' Wen Xia]] talked of the tao wu sect and referenced the diary of Xu Wen Jie that mentioned the prince.
+
 'He' attempts to eavesdrop and manipulate herself into more information.
 [[Wang Yue]] claims that the prince has disappeared for months on end to find out who is talking behind his back.
 We also learn [[Old Crow]] is part of the primogen council
 
-Zhou asks farid about the stance on the [[Anarchs (Night Front)]]
+Zhou asks [[Farid (Fang Liu)]] about the stance on the [[Anarchs (Night Front)]]
 Learn that there is a uneasy truce between the organisations. Approaching them will bring into question loyalty.
-
+Farid and [[Wen Yuheng]] talked suggested to zhou to learn more of the Temple of Tao Wu.
 #### Task 1
 Moi talks with [[Liang Yiating]] and [[Wen Yuheng]]
 A vote will be carried out soon regarding opium dens operating in the international settlement (3 days)
@@ -84,5 +91,3 @@ Potentially secure territory of [[Xu Wen Jie]] and claim a domain
 
 #### Task 3 
 Seek out the opium trail, where the corrupted opium came from.
-
-#S3 

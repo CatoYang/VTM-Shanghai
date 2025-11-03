@@ -1,14 +1,18 @@
-Player: Yang Peng
-Clan: [[Banu Haqim (判官堂 - Pàn Guān Táng)]]
-Sire: [[Farid (Fang Liu)]]
-Generation: 11th
-Feeding Grounds: Old City (alleycat)
+---
+tags:
+  - Banu-Haqim
+---
+
+Player: Yang Peng  
+Clan: [[Banu Haqim (判官堂 - Pàn Guān Táng)]]  
+Sire: [[Farid (Fang Liu)]]  
+Generation: 11th  
+Feeding Grounds: Old City (alleycat)  
 
 
 [Online Sheet]([https://drive.google.com/file/d/1D2uU8QOm4RIoN00RoREM1z6vARa3KXfe/view?usp=drive_link](https://drive.google.com/file/d/1D2uU8QOm4RIoN00RoREM1z6vARa3KXfe/view?usp=drive_link "https://drive.google.com/file/d/1D2uU8QOm4RIoN00RoREM1z6vARa3KXfe/view?usp=drive_link"))
-#Banu-Haqim 
 
-Experience wishlist/Roadmap
+Experience wishlist/Roadmap  
 Disciplines (level x cost)
 	**Obfuscate**
 	- Silence of Death

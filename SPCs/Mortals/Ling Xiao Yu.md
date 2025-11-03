@@ -1,10 +1,14 @@
+---
+tags:
+  - Ghoul
+  - S2
+  - S3
+  - Camarilla
+---
 Ghoul servant to [[Wu Yan Hua]]
 
-#S2 
+Session 2
 Met when we visited [[Wu Yan Hua]].
 
-#S3 
+Session 3
 Represented [[Wu Yan Hua]] at the camarilla meeting. 
-
-#Camarilla 
-#Ghoul 
