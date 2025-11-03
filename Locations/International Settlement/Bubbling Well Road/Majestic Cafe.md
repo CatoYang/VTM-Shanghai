@@ -1,6 +1,8 @@
 ---
 publish: "false"
 draft: true
+tags:
+  - Location
 ---
 
 ![[{BF54BCD0-39C5-490A-BA6B-10510CC4C44D}.png]]

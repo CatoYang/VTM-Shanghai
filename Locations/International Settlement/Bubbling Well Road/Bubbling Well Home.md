@@ -1,6 +1,8 @@
 ---
 publish: "false"
 draft: true
+tags:
+  - Location
 ---
 
 

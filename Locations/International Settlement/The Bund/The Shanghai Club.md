@@ -1,3 +1,10 @@
+---
+tags:
+  - Location
+  - The-Bund
+  - International-Settlement
+---
+
 at the bund.
 [[Liang Yiating]] pulled strings to have this facility available.
 

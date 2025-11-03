@@ -1,3 +1,10 @@
+---
+tags:
+  - Location
+  - Zha-Bei
+---
+
+
 #S2 
 We are told of [[Xu Wen Jie]]'s haven by residents of the [[Temple of Tao Wu]]
 

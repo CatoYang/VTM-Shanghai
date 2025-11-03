@@ -1,3 +1,9 @@
+---
+tags:
+  - Location
+  - Neutral-Ground
+---
+
 Abandoned ming era temple in the old city, on a hill. overlooks the river.
 Lanterns hanging outside.... Incense being burnt inside....
 

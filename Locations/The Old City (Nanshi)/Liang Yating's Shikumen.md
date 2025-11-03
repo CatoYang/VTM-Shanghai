@@ -1,3 +1,11 @@
+---
+aliases:
+  - Hall of Tranquility
+tags:
+  - Location
+  - Old-City
+---
+
 Also known as Hall of Tranquility
 #S1 
 The coterie had its first [[Camarilla (Veil Alliance)]] meeting here.
