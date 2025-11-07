@@ -5,7 +5,7 @@ tags:
 ---
 
 
-Leader of the [[Big Eight Mob – International Settlement]]
+Leader of the [[Big Eight Mob]]
 
 ![[Pasted image 20251027164207.png]]
 

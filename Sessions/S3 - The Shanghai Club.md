@@ -2,10 +2,12 @@
 tags:
   - S3
 ---
+Halloween!
+Skylar was unable to join us this day
 
 [[Xu Wen Jie]] the wight. Flees and runs out of the window. During the chase, something intercepts him. A halberd swings out and hits him out. [[Zhang]] then proceeds to commit battery on the wight sending it into torpor 
 
-White haired old man jumped off the roof and [[Zhang]] threw the wight to us.
+White haired old man ([[Iron Claw]]) jumped off the roof and [[Zhang]] threw the wight to us.
 They speak shanghai-nese.
 They are from the Iron Claw (eagle claw association)
 They told zhou "when you are tired of their lies come speak with us"
@@ -14,14 +16,15 @@ Back in the [[Wen Jie's Haven]] (warehouse) the 2nd room was explored and it was
 
 The party split
 [[Moi Yan]]  and [[Zhou Haoran]] stayed to transcribe the place.
-[[Fille]] and [['He' Wen Xia]] brought the wight back to the [[Camarilla (Veil Alliance)]]. at [[Liang Yating's Shikumen]].
+[[Fille]] and [['He' Zhen]] brought the wight back to the [[Camarilla (Veil Alliance)]]. at [[Liang Yating's Shikumen]].
 
 The Sheriff [[Liu Jianyu]] sent someone to the warehouse to burn it down. 
 On learning that there was a offer to take the wight to the [[Temple of Tao Wu]] instead, he got angry and brings them to a funeral parlor, which is a crematory.
 He 
 
 From the transcription at the warehouse, someone was discovered to zhou,
-*"The price is not blood, but the end of knowing"*
+	*"The price is not blood, but the end of knowing"* #Prophecy 
+
 [[Li Xuan]] arrives at the haven and collects samples and warns of the effects of the opium.
 Agents of the Veil alliance comes and burns the place down.
 #### **The Next day**
@@ -60,9 +63,9 @@ Sun yat sen sent [[Chiang Kai-shek]] to russia to study.
 Cant proceed due to damaged reputation.
 
 [[Wu Yan Hua]]'s ghoul is here, tells fille
-*'the dragon fought to save shanghai'*
+	*'the dragon fought to save shanghai'* #Prophecy
 
-[[Wen Yuheng]] and [['He' Wen Xia]] talked of the tao wu sect and referenced the diary of Xu Wen Jie that mentioned the prince.
+[[Wen Yuheng]] and [['He' Zhen]] talked of the tao wu sect and referenced the diary of Xu Wen Jie that mentioned the prince.
 
 'He' attempts to eavesdrop and manipulate herself into more information.
 [[Wang Yue]] claims that the prince has disappeared for months on end to find out who is talking behind his back.
@@ -78,16 +81,19 @@ Alludes to [[Sophia Antonov]] controling some of the dens in the settlement
 wen yuheng wants the council vote yes. She is working on 4 of the members, wants the ventrue fledgelings to work on the other 3.
 Liang is impartial or doesnt want this to happen.
 
+The Cover is the "anti-opium council."
+
 **The council member, municipal council**
-- Sir edward markham, british
-	has a daughter that goes dancing
-- Harold Whitman
-	Owes money to green gang
-- Peter langan, young american diplomat
-	Loves his nightlife, has a favourite squeeze
+- Sir Edward Markham, British man.
+	has a 18 y.o. daughter , 'Margaret' that goes dancing at Lados ballroom
+- Harold Whitman, British
+	Owes money to green gang (international Settlement)
+- Peter Langan, young American diplomat
+	Loves his nightlife, has a favourite squeeze at a tea house Peony Pavillion
 
 #### Task 2
 Potentially secure territory of [[Xu Wen Jie]] and claim a domain
 
 #### Task 3 
 Seek out the opium trail, where the corrupted opium came from.
+
