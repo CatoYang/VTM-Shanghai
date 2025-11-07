@@ -1,3 +1,9 @@
+---
+tags:
+  - French-Concession-GG
+  - BigEightMob-GG
+---
+
 All gang members were expected to follow the “ten great rules”, a code of honour. A number of additional rules guiding the members in the gang life complented them. Among these rules could be found the following ones:
 
 - Never deceive your teacher,
@@ -17,6 +23,10 @@ Its broken up into 3 main gangs
 [[French Concession Green Gang]]
 	Affiliated with [[Zhou Haoran]].
 [[Big Eight Mob]]
+	Resides in the international settlement
+	Affiliated with [[Zhou Yu]] and [[Broken Tooth]]
+
+
 
 This is mostly from the following [source](https://riseofthewhitesun.com/index.php/2021/12/18/focus-the-shanghai-green-gang-part-1). (a summary of the gangs for a political game)
 

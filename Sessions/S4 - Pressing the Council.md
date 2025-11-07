@@ -27,7 +27,7 @@ He apologies for not attending the camarilla meeting at [[The Shanghai Club]]
 A man joins the meeting No front teeth [[Broken Tooth]]
 Zhou yu is alluded to be the owner of the debt and 'gives the white man' to zhou as a gesture of good faith.
 
-**[[Peter Langan]], Simp**
+**Finding [[Peter Langan]]**
 'He' shadows him to the [[Farren's]] Foriegn gentleman's club. 
 Peter Langan infatuated with 'Sharon', a singer at the club.
 
