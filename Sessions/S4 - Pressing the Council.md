@@ -65,7 +65,7 @@ They all return back to Sir Edward's Residence.
 [[Sir Edward Markham]] owes a favour
 
 Zhou goes off researching about the opium, fails.
-#### Night 3
+#### S4, Night 3
 
 Downtime.
 
@@ -80,4 +80,4 @@ This happened 2 months ago in the old city.
 #### The Vote
 The Vote won 6 - 1. Opium is banned.
 
-[[Wen Yuheng]] sponsered us all into the [[Camarilla (Veil Alliance)]]. based on the S4.
+[[Wen Yuheng]] sponsered us all into the [[Camarilla (Veil Alliance)]]. Based on the events of the opium vote.

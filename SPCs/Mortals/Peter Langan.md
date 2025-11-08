@@ -7,4 +7,4 @@ tags:
 
 A young American diplomat part of the municipal council
 
-Infatuated with 'Sharon'
+Infatuated with 'Sharon' from [[Farren's]]
