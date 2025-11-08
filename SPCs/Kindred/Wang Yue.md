@@ -12,4 +12,6 @@ Domain: [[Wang Yue's Huixingting Teahouse.]]
 petite woman, with classical Chinese looks, round eyes and delicate features. A Shanghainese who owns high-class brothels.
 
 S2  
-Met and consulted her in her tea house and learnt of 
+Met and consulted her in her tea house and learnt of a blood ritual conducted in her teahouse
+
+![[Pasted image 20251108163643.png]]

@@ -15,3 +15,5 @@ Seen in camarilla meeting
 
 S3 
 Host, pulled strings and had a camarilla meeting in [[The Shanghai Club]]
+
+![[Pasted image 20251108163659.png]]
