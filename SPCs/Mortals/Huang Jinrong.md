@@ -2,6 +2,8 @@
 tags:
   - Mortal
   - French-Concession-GG
+aliases:
+  - Pockmarked Huang
 ---
 [[French Concession Green Gang]] Leader
 Boss of [[Zhou Haoran]]

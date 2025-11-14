@@ -2,6 +2,8 @@
 tags:
   - Banu-Haqim
   - Camarilla
+aliases:
+  - Fang Liu
 ---
 
 Clan: [[Banu Haqim (判官堂 - Pàn Guān Táng)]]  

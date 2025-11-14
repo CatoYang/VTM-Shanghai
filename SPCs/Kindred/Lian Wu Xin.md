@@ -1,6 +1,8 @@
 ---
 tags:
   - Unknown-Clan-Kindred
+aliases:
+  - Tao Wu Priest
 ---
 
 Position: Tao Wu Priest

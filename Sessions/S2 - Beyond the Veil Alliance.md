@@ -13,7 +13,7 @@ Met...
 [[Samuel Caldwell]]  
 [[Helena Smith]]  
 
-[[Lian Wu Xin (Tao Wu Priest)]]  
+[[Lian Wu Xin]]  
 Gave a sermon about tao wu rebellion. a metaphor for cain, the first kindred.   Embrace the beast within.   
 Gave a blood ritual  
 Zheng, Haoran and moi participated as did the other kindred.  

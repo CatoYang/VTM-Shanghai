@@ -10,7 +10,7 @@ Skylar was unable to join us this day
 White haired old man ([[Iron Claw]]) jumped off the roof and [[Zhang]] threw the wight to us.
 They speak shanghai-nese.
 They are from the Iron Claw (eagle claw association)
-They told zhou "when you are tired of their lies come speak with us"
+They told [[Zhang]] "when you are tired of their lies come speak with us"
 
 Back in the [[Wen Jie's Haven]] (warehouse) the 2nd room was explored and it was just sigils and blood sorcery written on the walls
 
@@ -32,7 +32,7 @@ We were told to come to a new place, the [[The Shanghai Club]].
 
 Most of the kindred are here. (might have missed some)
 [[Zhou Yu]]
-[[Farid (Fang Liu)]]
+[[Farid]]
 [[Jacques Delacroix]]
 [[Zhao Li Ling]] (seneschal)
 
@@ -71,7 +71,7 @@ Cant proceed due to damaged reputation.
 [[Wang Yue]] claims that the prince has disappeared for months on end to find out who is talking behind his back.
 We also learn [[Old Crow]] is part of the primogen council
 
-Zhou asks [[Farid (Fang Liu)]] about the stance on the [[Anarchs (Night Front)]]
+Zhou asks [[Farid]] about the stance on the [[Anarchs (Night Front)]]
 Learn that there is a uneasy truce between the organisations. Approaching them will bring into question loyalty.
 Farid and [[Wen Yuheng]] talked suggested to zhou to learn more of the Temple of Tao Wu.
 #### Task 1

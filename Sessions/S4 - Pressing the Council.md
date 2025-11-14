@@ -19,7 +19,7 @@ Finds out that [[Sophia Antonov]] owns a couple of teahouses in the internationa
 
 **Moving on [[Harold Whitman]]**
 The plan is to get harold to gamble in the international settlement instead so we 'buy' his debt. Zhou already arranged his place in the french concession. Now Harold only needs to be brought to the [[Club Orient]]
-Fille and He makes a move on harold, the
+Fille and He makes a move on harold, brings harold to the club and he plays rigged games to sway harold to the green gang's territory. He earns the money and intends to play back the debt on the same day.
 
 Fille, Zhou shadows harold back to the [[Monte Carlo]] to pay off his debts. Successfully
 Zhou was invited to a meetin with a boss of the place, [[Zhou Yu]]. Who is apparently owns this domain.
