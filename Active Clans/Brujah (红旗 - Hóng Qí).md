@@ -7,6 +7,7 @@ Members
 [[Chen Wei]]  
 [[Samuel Caldwell]]  
 [[Wong]]  
+[[Shimuzu]]
 
 Players  
 [[Zheng]]  

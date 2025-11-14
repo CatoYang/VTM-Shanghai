@@ -7,10 +7,15 @@ aliases:
 ---
 [[French Concession Green Gang]] Leader
 Boss of [[Zhou Haoran]]
+Serves [[Adriana Bianca]] 
 
 
 
 
+
+
+
+---
 ### History
 
 Huang Jinrong (黃金榮/ 黄金荣, _Huáng Jīnróng_) (1868-1953), son of a Suzhou policeman, benefitted from a classical education in Shanghai. Huang was victim of small-pox as a child, leaving him with scars at the origin of his nickname “pockmarked Huang”. Owner of a print-mounting business he launched in 1887, the man spent considerable with gangsters in teahouse. In 1892, he became a detective constable in the French police after successfully seating the exam. Huang began using his policeman influence to build connections with the underworld. He was in bed with the Green Gang long before he eventually formally joined it in 1927.

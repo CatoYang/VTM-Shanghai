@@ -14,12 +14,12 @@ via allies, has found out that broken tooth owns the debt of the Harold, 5,000. 
 There is also a Co-investor, chinese whom owns the debt.
 
 [[Fille]]
-Finds out that [[Sophia Antonov]] owns a couple of teahouses in the international settlement. She has a alias 'Vice Queen'. The Peony Pavillion is owned by sophia. 
-[[Zhao Li Ling]] also owns property in this area.
+Finds out that [[Sophia Antonov]] owns a couple of teahouses in the international settlement. She has an alias 'Vice Queen'. The Peony Pavillion is owned by sophia. 
+[[Zhao Li Ling]] also owns property in the international settlement
 
 **Moving on [[Harold Whitman]]**
 The plan is to get harold to gamble in the international settlement instead so we 'buy' his debt. Zhou already arranged his place in the french concession. Now Harold only needs to be brought to the [[Club Orient]]
-Fille and He makes a move on harold, brings harold to the club and he plays rigged games to sway harold to the green gang's territory. He earns the money and intends to play back the debt on the same day.
+Fille and He makes a move on harold, brings him to the club where he plays rigged games to sway harold to the green gang's territory. He earns the money through gambling and intends to play back the debt on the same night.
 
 Fille, Zhou shadows harold back to the [[Monte Carlo]] to pay off his debts. Successfully
 Zhou was invited to a meetin with a boss of the place, [[Zhou Yu]]. Who is apparently owns this domain.

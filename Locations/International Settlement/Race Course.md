@@ -1,6 +1,7 @@
 ---
-publish: "false"
-draft: true
+tags:
+  - Location
 ---
+In the middle of the city surrounded by the international settlement and french concession
 
-1
+One of the domains of [[Sophia Antonov]]

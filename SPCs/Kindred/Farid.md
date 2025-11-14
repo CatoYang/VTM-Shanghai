@@ -20,7 +20,4 @@ speaks fluent Mandarin, Cantonese, Shanghainese and English.
 
 Domain is in old city.
 
-S1 
-S2 
-S3 
 

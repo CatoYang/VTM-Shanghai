@@ -2,6 +2,8 @@
 tags:
   - Toreador
   - Camarilla
+aliases:
+  - Vice Queen
 ---
 Clan: [[Toreador (百花 - Bǎi Huā)]]  
 Factional allegiance: [[Camarilla (Veil Alliance)]] 

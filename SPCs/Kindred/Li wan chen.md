@@ -7,12 +7,8 @@ aliases:
 ---
 Clan: [[Ventrue (玉门 - Yù Mén)]]
 Position: Camarilla Prince
-Political allegiance: 
+Political allegiance:  Imperial
 Factional allegiance: Camarilla
-Sire:
-Progeny:
-Generation:
-Location/Domain:
 Sex: Male
 
 
