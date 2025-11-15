@@ -16,7 +16,7 @@ Back in the [[Wen Jie's Haven]] (warehouse) the 2nd room was explored and it was
 
 The party split
 [[Moi Yan]]  and [[Zhou Haoran]] stayed to transcribe the place.
-[[Fille]] and [['He' Zhen]] brought the wight back to the [[Camarilla (Veil Alliance)]]. at [[Liang Yating's Shikumen]].
+[[Fille]] and [[He Zhen]] brought the wight back to the [[Camarilla (Veil Alliance)]]. at [[Liang Yating's Shikumen]].
 
 The Sheriff [[Liu Jianyu]] sent someone to the warehouse to burn it down. 
 On learning that there was a offer to take the wight to the [[Temple of Tao Wu]] instead, he got angry and brings them to a funeral parlor, which is a crematory.
@@ -65,7 +65,7 @@ Cant proceed due to damaged reputation.
 [[Wu Yan Hua]]'s ghoul is here, tells fille
 	*'the dragon fought to save shanghai'* #Prophecy
 
-[[Wen Yuheng]] and [['He' Zhen]] talked of the tao wu sect and referenced the diary of Xu Wen Jie that mentioned the prince.
+[[Wen Yuheng]] and [[He Zhen]] talked of the tao wu sect and referenced the diary of Xu Wen Jie that mentioned the prince.
 
 'He' attempts to eavesdrop and manipulate herself into more information.
 [[Wang Yue]] claims that the prince has disappeared for months on end to find out who is talking behind his back.

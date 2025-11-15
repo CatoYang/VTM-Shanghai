@@ -2,6 +2,8 @@
 tags:
   - Ventrue
   - Camarilla
+aliases:
+  - "'He'"
 ---
 Player : Sam  
 Clan: [[Ventrue (玉门 - Yù Mén)]]  

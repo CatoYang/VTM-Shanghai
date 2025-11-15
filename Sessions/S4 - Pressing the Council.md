@@ -6,7 +6,7 @@ Jo and Skylar could not join us this day.
 Played at guild hall
 #### S4, Night 1
 **Research**
-[['He' Zhen]]
+[[He Zhen]]
 Margaret has a boyfriend, Charles and he has a expensive habit (opium) 
 
 [[Zhou Haoran]]
@@ -35,7 +35,7 @@ Peter Langan infatuated with 'Sharon', a singer at the club.
 He runs into [[Sophia Antonov]], who tells him to leave.
 #### S4, Night 2
 **[[Sir Edward Markham]]'s Daughter**
-[[Fille]] and [['He' Zhen]] goes looking for at [[Ladow's Casanova]]
+[[Fille]] and [[He Zhen]] goes looking for at [[Ladow's Casanova]]
 
 [[Charles]] goes and get drinks
 'He' Spots possible green gang members spiking the drink of charles.
@@ -69,7 +69,7 @@ Zhou goes off researching about the opium, fails.
 
 Downtime.
 
-[[Wen Yuheng]] is disappointed that [[Zhou Yu]] is entangled with the green gang, and has bigger hopes for [['He' Zhen]]
+[[Wen Yuheng]] is disappointed that [[Zhou Yu]] is entangled with the green gang, and has bigger hopes for [[He Zhen]]
 
 [[Fille]], seeks out Sir edward to learn Latin.
 

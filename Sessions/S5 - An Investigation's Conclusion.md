@@ -4,7 +4,7 @@ tags:
 ---
 Session 5. All players present 
 #### Pre-session Events
-[[Zhang]] and [['He' Zhen]] are invited to a meeting for the [[Kuomintang]].
+[[Zhang]] and [[He Zhen]] are invited to a meeting for the [[Kuomintang]].
 They meet [[Sun Yat-sen]]. Declares that the [[Kuomintang]] and the [[Communists]] are joining forces.
 [[Zhou Enlai]] talks at the meeting and gives a speech.
 
@@ -54,7 +54,7 @@ Tells [[Iron Claw]] and the [[Li wan chen|Prince]] was friends and the veil alli
 A story is told about [[Iron Claw]] and that he wants new rulers to back.
 where the [[Li wan chen|Prince]] wanted to back the ming dynasty.
 
-[['He' Zhen]] talks to [[Hong Yee]], learns that they is distrustful of [[Farid]] and the [[Temple of Tao Wu]]. And suggests [['He' Zhen]] infiltrate it.
+[[He Zhen]] talks to [[Hong Yee]], learns that they is distrustful of [[Farid]] and the [[Temple of Tao Wu]]. And suggests [[He Zhen]] infiltrate it.
 
 [[Fille]] talks to [[Hong Yee]], 
 Claims to know [[Iron Claw]] , [[Li wan chen|Prince]] , [[Old Crow]] go back centuries and worked together for a while before the current political situation.
