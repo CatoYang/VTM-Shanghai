@@ -3,7 +3,6 @@ tags:
   - S7
 ---
 12 December 2025
-
 Jo unable to join us today.
 
  We head to the [[Eagle Claw Association]] Martial Arts facility.
@@ -13,12 +12,16 @@ The disciple serving us tea told us that disciples are being trained to protect 
 
 [[Iron Claw]] asked for where is [[Zheng]] learnt that she did not want to be part of the coterie and left for different endeavors.
 
-Iron claw and the coterie talk about politics and is concerned about the fate of china. He has kept his allegiances obscure as of now.
+Iron claw and the coterie talk about politics and is concerned about the fate of china. He has kept his political allegiances obscure as of now.
+
+We tell him we intend to take the territory left behind by [[Xu Wen Jie]], he tells us we should hurry before members of the [[Anarchs (Night Front)]] do so.
 
 He offers an opportunity to the coterie to spar with [[Zhang]] and [[Fille]] stepped up.
 The sparing ended with fille dealing 1 superficial damage to her and a lot of damage on fille. [[Iron Claw]] stopped the fight early and maybe gotten the respect for the bout.
 
 We leave.
+
+---
 
 [[Zhou Haoran]] goes off to stake out the Tongs and learnt there are 2 locations, a house and the gambling den they frequent. They also are patroling the grounds to find a particular person.
 (we presume its the communist agitator).
@@ -46,11 +49,12 @@ We speak with [[Yin Yue]], River transport guild
 We find a commotion, there is a police man and workers. Yin Yue is there.
 We find out that a bargehand is found dead.
 [[Captain Wu]] comes and to investigate as well.
-We eavesdrop and hear that the dead bargeman as found and his goods stolen.
-The tongs are blaming the communists and claiming that it isn't him.
-
-[[Iron Fang]] shows up and a confronttation between the Tongs and the Guild.
-[[Yin Yue]]'s face is unreadable during this.
+We eavesdrop and hear that the dead bargeman was found and his goods stolen.
+The tong members are blaming the communists and claiming that it isn't them.
+[[Iron Fang]] shows up and a confrontation between the Tongs and the Guild.
+[[Yin Yue]]'s face is unreadable during this silent showdown.
+The confrontation was slowly defused and Iron Fang departed.
+*There is lingering animousity between the river transport guild and the tongs and it might have been perpetrated by the communists*
 
 [[He Zhen]] explores the brothels visited by the tongs and found out that [[Bao Tou]] is Iron Fang's 2nd in command and that he has a following. But isnt particularly smart.
 Also found out that the factory overseer [[Wang Si De]] visits here and is paying more than usual for pleasure.
