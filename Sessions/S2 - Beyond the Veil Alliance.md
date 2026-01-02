@@ -9,7 +9,7 @@ Directed to the a temple elsewhere.
 
 Visited the [[Temple of Tao Wu]]  
 Met...  
-[[Wong]]  
+[[Wong Ka Ming]]  
 [[Samuel Caldwell]]  
 [[Helena Smith]]  
 

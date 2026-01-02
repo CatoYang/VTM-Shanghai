@@ -58,7 +58,7 @@ Half the night passes
 Zhou Haoran goes scouting for the Tongs
 He finds a pair of tongs interrogating a woman asking for the place of a location. They fail and go on with their day. The woman leaves to the a worker's dorms.
 He finds out that [[Wang Si De]] is gambling at the den and is a bad gambler
-Find a few tongs at 3am and goes to the tea house. It is closed at that point and start piling firewood. Zhou intervenes and kills 3 of them, one gets away wounded. ( 4 superficial damage taken 21223)
+Find a few tongs at 3am and goes to the tea house. It is closed at that point and start piling firewood. Zhou intervenes and kills 3 of them, one gets away wounded. ( 4 superficial damage taken)
 
 [[Moi Yan]] and [[He Zhen]] tag team and head to find [[Wang Si De]] and intercepts him on the way back from the gambling den.
 Through the use of dominate "take me to the women you traffick" to him.

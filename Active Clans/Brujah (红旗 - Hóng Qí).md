@@ -6,7 +6,7 @@ Members
 [[Takahashi Renjiro]] - Leader?  
 [[Chen Wei]]  
 [[Samuel Caldwell]]  
-[[Wong]]  
+[[Wong Ka Ming]]  
 [[Shimuzu]]
 
 Players  

@@ -56,5 +56,5 @@ The tong members are blaming the communists and claiming that it isn't them.
 The confrontation was slowly defused and Iron Fang departed.
 *There is lingering animousity between the river transport guild and the tongs and it might have been perpetrated by the communists*
 
-[[He Zhen]] explores the brothels visited by the tongs and found out that [[Bao Tou]] is Iron Fang's 2nd in command and that he has a following. But isnt particularly smart.
+[[He Zhen]] explores the brothels visited by the tongs and found out that [[Zhang Bao Tou]] is Iron Fang's 2nd in command and that he has a following. But isnt particularly smart.
 Also found out that the factory overseer [[Wang Si De]] visits here and is paying more than usual for pleasure.
