@@ -43,18 +43,11 @@ STR+Brawl(grappking) = 4 + 3 + 1 = 8
 #### Predator Pool
 Strength + Brawl = 4 + 3 + 1
 
-#### S8 
-##### Health
-7/11 
-##### Willpower
-3/5
-##### Hunger 
-3/5
 
 
 
 Experience wishlist/Roadmap  
-Disciplines (level x cost)
+Disciplines (level x 5 cost)
 	**Obfuscate**
 	- **Silence of Death**
 	**Celerity**
@@ -64,16 +57,15 @@ Disciplines (level x cost)
 	- **Scour Secrets**
 	- Scorpion's Touch (3)
 	- Blood Aegis (4)
-	**Blood sorcery Rituals**
+	**Blood sorcery Rituals** (level x 3 cost)
 	- Blood Walk (1)
 	- **Craft Bloodstone** 
-	- Illuminate Trial of Prey (2)
+	- **Illuminate Trial of Prey**
 	- Soporific Touch (2)
 	- Silentia Mortis (2)
-	- Shroud of Silence (2)
+	- ~~Shroud of Silence (2)~~
 	- Truth of Blood (2)
-	- Bladed Hands (3)
+	- ~~Bladed Hands (3)~~
 	- Essence of Air (3)
 	- Eyes of the Past (3)
 	- Innocence's Veil (4)
-	- 
