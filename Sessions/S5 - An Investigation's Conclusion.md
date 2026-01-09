@@ -71,7 +71,7 @@ Learns the racetracks are owned by [[Sophia Antonov]] and she is diversified.
 [[Zhao Li Ling]] introduces [[Li Xuan]] and speaks.
 He says that the opium was corrupted by 2 powerful rituals
 one by the prince
-another by a foreign mage, [[He Wen Fan]].
+another by a foreign mage, [[Ho Fang]].
 
 We find out the mage is here for about 10 years and has a domain in shanghai.
 

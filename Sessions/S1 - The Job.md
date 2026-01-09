@@ -17,7 +17,7 @@ Missing people
 [[Xu Wen Jie]]
 
 1 malkavian
-[[Wu Yan Hua]]
+[[Wu Lian Hua]]
 
 1 Toreador
 [[Wang Yue]] 

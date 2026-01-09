@@ -2,8 +2,10 @@
 tags:
   - S9
 ---
-Jo was absent
+Played at Narrative Forge, Aljunied
 2th January 2026
+
+Jo was absent
 
 [[Zhou Haoran]] informs [[He Zhen]] and [[Fille]] regarding the altercation at the tea house and retires to handle his banu haqim compulsions
 
@@ -24,7 +26,7 @@ We find out that the teahouse is the meeting place of the 'workers'.
 
 [[He Zhen]] goes trying to find a chemist through her contacts. They tell him that they could introduce a chemist who works for the green gang of the international settlement. He tries to find another and is informed of a  'Mr. He' who resides in the old city.
 
-[[Fille]] goes to meet [[Wu Yan Hua]], she seems to be cheerful, brewing tea and painting. Fille asks about the mass grave at [[Wen Jie's Haven]] and she says that we should build a shrine.
+[[Fille]] goes to meet [[Wu Lian Hua]], she seems to be cheerful, brewing tea and painting. Fille asks about the mass grave at [[Wen Jie's Haven]] and she says that we should build a shrine.
 Fille also wishes to learn about being a seer from her. (possibly learn disciplines).
 Wu yan hua informs fille that [[Jacques Delacroix]] might need to be informed about this as he might get territorial/jealous. Fille acknowledges this and departs.
 

@@ -6,7 +6,7 @@ tags:
 ---
 
 #S5 
-A foreign mage living in shanghai implicated in the [[Li wan chen|Prince]]'s disappearance
+A local mage living in shanghai implicated in the [[Li wan chen|Prince]]'s disappearance
 Said to be very dangerous, living in shanghai for the past 10 years.
 
 His domain might be known to primogens but its mostly unknown to us

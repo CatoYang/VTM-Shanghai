@@ -5,10 +5,10 @@ tags:
   - S3
   - Camarilla
 ---
-Ghoul servant to [[Wu Yan Hua]]
+Ghoul servant to [[Wu Lian Hua]]
 
 Session 2
-Met when we visited [[Wu Yan Hua]].
+Met when we visited [[Wu Lian Hua]].
 
 Session 3
-Represented [[Wu Yan Hua]] at the camarilla meeting. 
+Represented [[Wu Lian Hua]] at the camarilla meeting. 

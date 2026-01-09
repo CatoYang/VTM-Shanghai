@@ -19,7 +19,7 @@ Enquiring more about the murder. He claims that the guildmaster noted there was 
 
 [[Zhou Haoran]] and [[Fille]] went to the transport guild. Did not learn much.
 
-[[Moi Yan]] goes contacts [[Wu Yan Hua]], her ghoul [[Ling Xiao Yu]] meets her and she finds out that the mass grave was from the site of the taiping revolution, people were slaughtered there.
+[[Moi Yan]] goes contacts [[Wu Lian Hua]], her ghoul [[Ling Xiao Yu]] meets her and she finds out that the mass grave was from the site of the taiping revolution, people were slaughtered there.
 
 [[Fille]] talks to [[Li Xuan]], He tells a story about the origins of vampires and claims that caine is not the primordial vampire, but it is the tao wu. When questioned about whether if he is part of the tao wu sect, he ignores the question.
 He says fille can do something fro him, he wishes to get a pair of vases Virtue and dominion,

@@ -3,7 +3,7 @@ tags:
   - S2
 ---
 
-Went to meet [[Wu Yan Hua]] and her ghoul.  
+Went to meet [[Wu Lian Hua]] and her ghoul.  
 She is depressed with life with fore told that the wight (he) is part of a plan that he knows not better of. Tells of a reckoning that is coming.  
 Directed to the a temple elsewhere.  
 

@@ -23,7 +23,7 @@ small businesses
 Learnt the transport guide handles transportation through the canal
 
 ##### The coterie investigates zha bei
-**[[Fille]] and [[He Wen Fan]]**
+**[[Fille]] and [[Ho Fang]]**
 finds out the cottom mill is owned by [[Lee Hong]] and found out that he is paying the tongs to supress the workers
 Finds out theres a worker's advocate called [[Fang hua]] that is leading the workers
 Also finds out that business is not great due to bad weather.

@@ -62,7 +62,7 @@ Chen wei doesnt believe the communists joining the KMT will turn out well. they 
 Sun yat sen sent [[Chiang Kai-shek]] to russia to study.
 Cant proceed due to damaged reputation.
 
-[[Wu Yan Hua]]'s ghoul is here, tells fille
+[[Wu Lian Hua]]'s ghoul is here, tells fille
 	*'the dragon fought to save shanghai'* #Prophecy
 
 [[Wen Yuheng]] and [[He Zhen]] talked of the tao wu sect and referenced the diary of Xu Wen Jie that mentioned the prince.
