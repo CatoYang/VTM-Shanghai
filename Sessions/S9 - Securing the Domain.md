@@ -10,16 +10,16 @@ Jo was absent
 [[Zhou Haoran]] informs [[He Zhen]] and [[Fille]] regarding the altercation at the tea house and retires to handle his banu haqim compulsions
 
 He Zhen goes to the police station to alert them about the failed arson attempt as well as the possible human trafficking by the Tongs.
-[[Captain Wu]] is summoned and then musters men, the transport guild also musters man to assist.
+[[Wu Jiang Hong]] is summoned and then musters men, the transport guild also musters man to assist.
 He sends men to clear the arson materials at the tea house.
-They attack the Tong facility and arrest Tong men as well as liberating some women. They also find [[Wang Si De]] in the attack.
+They attack the Tong facility and arrest Tong men as well as liberating some women. They also find [[Huang Shide]] in the attack.
 
 ---
 Saturday Night
 
 The next day, He and fille talk to the captain, he claims that things will probably go well if the arrested men confess to their crimes but they are not talking.
 
-The [[Ling guo rong]] is the owner of the tea house and he thanks us for the intervention and feels indebted.
+The [[Liu Guorong]] is the owner of the tea house and he thanks us for the intervention and feels indebted.
 We find out that the teahouse is the meeting place of the 'workers'.
 
 [[Fille]] and [[He Zhen]] goes off to talk to teahous. They meet [[Fang hua]],  She thanks them for saving some of the workers that were kidnapped. He zheng wishes to join the conversations of the communists.
@@ -52,11 +52,11 @@ Claims that [[Li Xuan]] is probably the one that helped the prince. He also clai
 Fille also talks about the [[Temple of Tao Wu]] and old crow encourages her  to visit. 'knowledge is good whether you believe in it or not'.
 [[Zhang Hong]] is old crow's ghoul who is his liaison if we wish to contact him again.
 
-[[He Zhen]] goes to the communist meeting and its all women besides He Zhen and is introduced to  Brother [[Qing Ming]] and hear him speak passionately for the workers. After the speech, 'He' talks to brother qing ming. 'He' represents [[Moi Yan]] who is in business with and offers to fight for worker rights.
+[[He Zhen]] goes to the communist meeting and its all women besides He Zhen and is introduced to  Brother [[Song Qi Ming]] and hear him speak passionately for the workers. After the speech, 'He' talks to brother qing ming. 'He' represents [[Moi Yan]] who is in business with and offers to fight for worker rights.
 
 He tries to meet [[Zhang Bao Tou]] by meeting him in the brothel in place of a prostitute.
-He cuts a deal where the coterie gets rid of [[Iron Fang]] for influence from zhang.
-[[He Zhen]] walks into the police station and through cloud memory and mesmerize forces [[Wang Si De]] to confess and implicate [[Iron Fang]].
+He cuts a deal where the coterie gets rid of [[Iron Fan Shuren]] for influence from zhang.
+[[He Zhen]] walks into the police station and through cloud memory and mesmerize forces [[Huang Shide]] to confess and implicate [[Iron Fan Shuren]].
 
 
 The Coterie gains control of the territory.

@@ -6,7 +6,7 @@ tags:
 Jo unable to join us today.
 
  We head to the [[Eagle Claw Association]] Martial Arts facility.
-There were a dozen disciples training in the place, we arrived and were granted by [[Zhang]] and granted an audience.
+There were a dozen disciples training in the place, we arrived and were granted by [[Zhang Bo]] and granted an audience.
 
 The disciple serving us tea told us that disciples are being trained to protect themselves and the gangsters are repulsed when they come.
 
@@ -16,7 +16,7 @@ Iron claw and the coterie talk about politics and is concerned about the fate of
 
 We tell him we intend to take the territory left behind by [[Xu Wen Jie]], he tells us we should hurry before members of the [[Anarchs (Night Front)]] do so.
 
-He offers an opportunity to the coterie to spar with [[Zhang]] and [[Fille]] stepped up.
+He offers an opportunity to the coterie to spar with [[Zhang Bo]] and [[Fille]] stepped up.
 The sparing ended with fille dealing 1 superficial damage to her and a lot of damage on fille. [[Iron Claw]] stopped the fight early and maybe gotten the respect for the bout.
 
 We leave.
@@ -29,7 +29,7 @@ Also finds out that the opium dens are also paying off the tongs and recieve the
 
 The coterie agree that the communists should not take control of the territory.
 
-[[Fille]] and [[He Zhen]] decide to go to meet the meet the business man [[Lee Hong]]. They get past the bodyguard and converse acting on pretext of talking on behalf of [[Moi Yan]]'s business family.
+[[Fille]] and [[He Zhen]] decide to go to meet the meet the business man [[Li Zhao Xiang]]. They get past the bodyguard and converse acting on pretext of talking on behalf of [[Moi Yan]]'s business family.
 We learnt that
 - Lee hong is capitalist and  a man who despises the poor (intuition)
 - Lee hong claims he pays off the tongs, a few hundred yuan a month (income of a small business a year)
@@ -37,8 +37,8 @@ We learnt that
 Lee invites the coterie to a dinner on another day to discuss plans.
 
 
-We speak with [[Captain Wu]] 
-- who claims that [[Wang Si De]], the factory overseer is beating women.
+We speak with [[Wu Jiang Hong]] 
+- who claims that [[Huang Shide]], the factory overseer is beating women.
 - is sympathetic with the workers and to an extent to the communist
 - they take money from the tongs
 - his hands are tied with what he can do, the council isnt giving him more budget.
@@ -48,13 +48,13 @@ We speak with [[Captain Wu]]
 We speak with [[Yin Yue]], River transport guild
 We find a commotion, there is a police man and workers. Yin Yue is there.
 We find out that a bargehand is found dead.
-[[Captain Wu]] comes and to investigate as well.
+[[Wu Jiang Hong]] comes and to investigate as well.
 We eavesdrop and hear that the dead bargeman was found and his goods stolen.
 The tong members are blaming the communists and claiming that it isn't them.
-[[Iron Fang]] shows up and a confrontation between the Tongs and the Guild.
+[[Iron Fan Shuren]] shows up and a confrontation between the Tongs and the Guild.
 [[Yin Yue]]'s face is unreadable during this silent showdown.
 The confrontation was slowly defused and Iron Fang departed.
 *There is lingering animousity between the river transport guild and the tongs and it might have been perpetrated by the communists*
 
 [[He Zhen]] explores the brothels visited by the tongs and found out that [[Zhang Bao Tou]] is Iron Fang's 2nd in command and that he has a following. But isnt particularly smart.
-Also found out that the factory overseer [[Wang Si De]] visits here and is paying more than usual for pleasure.
+Also found out that the factory overseer [[Huang Shide]] visits here and is paying more than usual for pleasure.

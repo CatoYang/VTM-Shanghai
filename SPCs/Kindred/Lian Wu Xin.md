@@ -3,6 +3,7 @@ tags:
   - Unknown-Clan-Kindred
 aliases:
   - Tao Wu Priest
+  - Father Lian
 ---
 
 Position: Tao Wu Priest

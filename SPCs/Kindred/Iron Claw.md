@@ -4,6 +4,7 @@ tags:
   - Unknown-Clan-Kindred
 ---
  Leader of the [[Anarchs (Night Front)]]
+ -- lean, gruff looking , looks to be in his 40s. Peircing eyes. Drinks tea. Formerly No. 2 to the Prince before splitting over their views on the Qing Dynasty. Runs the Eagle Claw Martial Arts association.
 
 S3 
 He is a man with white hair

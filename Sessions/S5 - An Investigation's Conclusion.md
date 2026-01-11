@@ -4,7 +4,7 @@ tags:
 ---
 Session 5. All players present 
 #### Pre-session Events
-[[Zhang]] and [[He Zhen]] are invited to a meeting for the [[Kuomintang]].
+[[Zhang Bo]] and [[He Zhen]] are invited to a meeting for the [[Kuomintang]].
 They meet [[Sun Yat-sen]]. Declares that the [[Kuomintang]] and the [[Communists]] are joining forces.
 [[Zhou Enlai]] talks at the meeting and gives a speech.
 
@@ -48,7 +48,7 @@ The players decide to form a coterie in zha bei
 
  [[Zhou Haoran]] talks to [[Adriana Bianca]], and learns [[Huang Jinrong]] works for her.
 
-[[Zhang]] talks to her sire and learns that [[Farid]] joined the [[Temple of Tao Wu]].
+[[Zhang Bo]] talks to her sire and learns that [[Farid]] joined the [[Temple of Tao Wu]].
 They talk about politics and suggests she talk to [[Iron Claw]].
 Tells [[Iron Claw]] and the [[Li wan chen|Prince]] was friends and the veil alliance and night front split when they quarreled. 
 A story is told about [[Iron Claw]] and that he wants new rulers to back.
@@ -59,7 +59,7 @@ where the [[Li wan chen|Prince]] wanted to back the ming dynasty.
 [[Fille]] talks to [[Hong Yee]], 
 Claims to know [[Iron Claw]] , [[Li wan chen|Prince]] , [[Old Crow]] go back centuries and worked together for a while before the current political situation.
 Fille tells about the events in the old city (opium dens).
-Hong yee claims to know of the japanese woman who investigated, [[Shimuzu]], childe of [[Takahashi Renjiro]].
+Hong yee claims to know of the japanese woman who investigated, [[Shimuzu Aya]], childe of [[Takahashi Renjiro]].
 Wants [[Fille]] to spy on [[Zhou Haoran]] and [[Farid]].
 
 [[Moi Yan]] talks to [[Liang Yiating]],
@@ -71,7 +71,7 @@ Learns the racetracks are owned by [[Sophia Antonov]] and she is diversified.
 [[Zhao Li Ling]] introduces [[Li Xuan]] and speaks.
 He says that the opium was corrupted by 2 powerful rituals
 one by the prince
-another by a foreign mage, [[Ho Fang]].
+another by a foreign mage, [[He Wen Feng]].
 
 We find out the mage is here for about 10 years and has a domain in shanghai.
 

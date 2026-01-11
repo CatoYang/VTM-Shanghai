@@ -3,6 +3,8 @@ tags:
   - Mage
   - Mortal
   - S5
+aliases:
+  - Ho Fang
 ---
 
 #S5 

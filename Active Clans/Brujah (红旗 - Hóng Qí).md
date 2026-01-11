@@ -7,7 +7,7 @@ Members
 [[Chen Wei]]  
 [[Samuel Caldwell]]  
 [[Wong Ka Ming]]  
-[[Shimuzu]]
+[[Shimuzu Aya]]
 
 Players  
 [[Zheng]]  

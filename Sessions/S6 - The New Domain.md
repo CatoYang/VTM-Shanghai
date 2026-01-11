@@ -23,15 +23,15 @@ small businesses
 Learnt the transport guide handles transportation through the canal
 
 ##### The coterie investigates zha bei
-**[[Fille]] and [[Ho Fang]]**
-finds out the cottom mill is owned by [[Lee Hong]] and found out that he is paying the tongs to supress the workers
+**[[Fille]] and [[He Wen Feng]]**
+finds out the cottom mill is owned by [[Li Zhao Xiang]] and found out that he is paying the tongs to supress the workers
 Finds out theres a worker's advocate called [[Fang hua]] that is leading the workers
 Also finds out that business is not great due to bad weather.
 He is also not happy about paying the tongs
 
-Also finds out the police is not handling it well, run by [[Captain Wu]] + 4 police officers, who are trying their best
+Also finds out the police is not handling it well, run by [[Wu Jiang Hong]] + 4 police officers, who are trying their best
 
-The tongs are run by [[Iron Fang]], who runs the [[Golden Dragon Gambling Den]] , about 20 people+
+The tongs are run by [[Iron Fan Shuren]], who runs the [[Golden Dragon Gambling Den]] , about 20 people+
 
 **[[Moi Yan]]**
 Exploring the ruins of [[Wen Jie's Haven]]
@@ -42,7 +42,7 @@ She finds him again and shows the blood ritual symbols.
 He replys with 'chen' and points at himself.
 
 Visits the local business owners
-also runs into the bookkeeper for [[Lee Hong]]
+also runs into the bookkeeper for [[Li Zhao Xiang]]
 Learns lee hong likes to eat pastries.
 
 [[Zhou Haoran]]
@@ -55,7 +55,7 @@ Further down, places belonging to [[Chen Wei]], [[Old Crow]]
 then to hong kee [[Takahashi Renjiro]]
 
  #### **Moving on the tongs**
-[[Fille]] visits [[Iron Fang]], talks about business.
+[[Fille]] visits [[Iron Fan Shuren]], talks about business.
 Fille alludes that she influenced the burning of [[Wen Jie's Haven]] and he got angry that it was done on his territory.
 
 They attack fille but she takes down and man and commands the situation. Iron fang continues the negotiation and requests for the martial art organization to the north to be taken down, the [[Eagle Claw Association]]. 

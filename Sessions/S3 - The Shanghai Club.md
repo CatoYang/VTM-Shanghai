@@ -5,12 +5,12 @@ tags:
 Halloween!
 Skylar was unable to join us this day
 
-[[Xu Wen Jie]] the wight. Flees and runs out of the window. During the chase, something intercepts him. A halberd swings out and hits him out. [[Zhang]] then proceeds to commit battery on the wight sending it into torpor 
+[[Xu Wen Jie]] the wight. Flees and runs out of the window. During the chase, something intercepts him. A halberd swings out and hits him out. [[Zhang Bo]] then proceeds to commit battery on the wight sending it into torpor 
 
-White haired old man ([[Iron Claw]]) jumped off the roof and [[Zhang]] threw the wight to us.
+White haired old man ([[Iron Claw]]) jumped off the roof and [[Zhang Bo]] threw the wight to us.
 They speak shanghai-nese.
 They are from the Iron Claw (eagle claw association)
-They told [[Zhang]] "when you are tired of their lies come speak with us"
+They told [[Zhang Bo]] "when you are tired of their lies come speak with us"
 
 Back in the [[Wen Jie's Haven]] (warehouse) the 2nd room was explored and it was just sigils and blood sorcery written on the walls
 

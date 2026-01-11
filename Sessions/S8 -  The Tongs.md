@@ -14,7 +14,7 @@ The Supernatural Man expresses intent to for us 'make things right'.
 
 Moi yan talked to a young man 'xiao liang'. Further investigation on the murder of the bargeman found that the murder occurred evening and that it happened upstream and the boat was found downstream. He also mention seeing 2 bargemen arguing regarding the body.
 
-[[He Zhen]] went to meet [[Captain Wu]] , meeting him as he is traveling by biycle.
+[[He Zhen]] went to meet [[Wu Jiang Hong]] , meeting him as he is traveling by biycle.
 Enquiring more about the murder. He claims that the guildmaster noted there was a struggle during the murder and that he would not be able to tell us what was being transported because there was no manifest and that the widow of the murdered man does'nt know why he was working during that time.
 
 [[Zhou Haoran]] and [[Fille]] went to the transport guild. Did not learn much.
@@ -57,10 +57,10 @@ Half the night passes
 
 Zhou Haoran goes scouting for the Tongs
 He finds a pair of tongs interrogating a woman asking for the place of a location. They fail and go on with their day. The woman leaves to the a worker's dorms.
-He finds out that [[Wang Si De]] is gambling at the den and is a bad gambler
+He finds out that [[Huang Shide]] is gambling at the den and is a bad gambler
 Find a few tongs at 3am and goes to the tea house. It is closed at that point and start piling firewood. Zhou intervenes and kills 3 of them, one gets away wounded. ( 4 superficial damage taken)
 
-[[Moi Yan]] and [[He Zhen]] tag team and head to find [[Wang Si De]] and intercepts him on the way back from the gambling den.
+[[Moi Yan]] and [[He Zhen]] tag team and head to find [[Huang Shide]] and intercepts him on the way back from the gambling den.
 Through the use of dominate "take me to the women you traffick" to him.
 He goes deeper into the suburbs and head to a house guarded by a Tong soldier.
 
