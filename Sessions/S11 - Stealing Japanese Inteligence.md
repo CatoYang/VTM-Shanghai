@@ -49,7 +49,7 @@ Mr 'C', the contact that [[He Zhen]] brought translates the following
 
 2nd set 
 Employment manifest, of 50 odd people whos destination are in various location in japan
-they are all processed at  warehouse 12.
+they are all processed at  warehouse 12. The warehouse was owned by the japanese navy
 
 3rd set
 Goods delievery, food, incense, chalk, medical supplies, delivered the last few weeks. to a warehouse in hokee

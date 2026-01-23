@@ -30,6 +30,8 @@ Feeding Grounds: Old City (alleycat)
 **Spare identity**
 Spanish Citizenship: "Alejandro Garcia Zhou"
 
+Runs a night club [L’Amour Cabaret]] for the green gang.
+
 ![[{50EE15B5-9A3D-429C-A3A0-834FFC83F8A0}.png]]
 
 ---
