@@ -4,6 +4,8 @@ tags:
   - Camarilla
   - S3
   - S1
+aliases:
+  - Sheriff
 ---
 Clan: [[Ventrue (玉门 - Yù Mén)]]  
 Position: Sheriff  
