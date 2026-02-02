@@ -6,7 +6,7 @@ Skylar left the chronicle. Everyone is present
 
 The group talks about the shared chronicle.
 
-**[[2. Chronicle]]**
+**[[Coterie's Chronicle]]**
 Always head up not down.
 Work together for the betterment of all.
 The needs of the many outweigh the needs of the few

@@ -2,6 +2,13 @@
 aliases:
   - Zha Bei
 ---
+The Coterie took over territory belonging to the deceased [[Xu Wen Jie]] in Zha bei
+
+Locations
+[[Wen Jie's Haven]] - A Warehouse tainted and burnt
+Small holdings in the local teahouse of [[Liu Guorong|Teahouse master]] (burnt down)
+A Stake in the local cotton mill owned partly by [[Moi Yan]]
+
 #S13 The domain is under siege, we have 2 dots in flaws.
 
 ---
