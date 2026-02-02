@@ -21,7 +21,7 @@ Its broken up into 3 main gangs
 
 [[Gu Zhuxuan’s group (Zhabei and Hongkou)]]
 [[French Concession Green Gang]]
-	Affiliated with [[Zhou Haoran]].
+	Affiliated with [[Zhou Haoran]] and [[Adriana Bianca]]
 [[Big Eight Mob]]
 	Resides in the international settlement
 	Affiliated with [[Zhou Yu]] and [[Broken Tooth]]

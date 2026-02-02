@@ -16,8 +16,6 @@ The coterie is given a low-level clerical or IT contact in the precinct, who can
 
 [[Fille]] spends 1 dot in Lien (community outreach)
 
-
-
 [[Moi Yan]]
 
 [[He Zhen]]

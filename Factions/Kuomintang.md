@@ -1,8 +1,6 @@
 Leader: [[Sun Yat-sen]]
 
 
-
-
 ## History
 ### 1922
 **Base of Operations – Guangzhou (Canton):**
