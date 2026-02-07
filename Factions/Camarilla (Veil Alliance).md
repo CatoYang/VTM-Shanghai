@@ -1,3 +1,8 @@
+---
+aliases:
+  - Veil Alliance
+---
+
 The Prince is missing and in his absence, the council of elders are running the scene
 Zhao Li Ling is referred to as the 右使 (You Shi) Right-Hand Emissary for the Prince
 

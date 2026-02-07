@@ -43,7 +43,7 @@ During his feeding on 4 hunger, he unfortunately kills a prostitute during the f
 Mr 'C', the contact that [[He Zhen]] brought translates the following
 
 1st set of blackmail documents
-[[Li Shi Cheng]], a judge in the old city is taking bribes from the green gang
+[[Li Shi Chong]], a judge in the old city is taking bribes from the green gang
 [[Xu Wen Hao]], rice merchant, likes young girls. There are photos of him with underaged girls.
 [[Chen Yu Chang]], shipping merchant. He has 2 separate set of accounts , stealing money from his partners
 
