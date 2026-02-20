@@ -2,7 +2,7 @@
 tags:
   - Toreador
 ---
-Played by kylie.
+Played by kylie, taken over  bg Ice
 Sire: [[Wang Yue]]
 
 works at paramount ball room
