@@ -2,7 +2,7 @@
 tags:
   - Toreador
 ---
-Played by kylie, taken over  bg Ice
+Played by kylie, taken over Annice
 Sire: [[Wang Yue]]
 
 works at paramount ball room
@@ -12,6 +12,3 @@ Mother is alive
 
 Convictions: 
 Children should know a life of violence
-
-
-Crush on a workplace colleague?

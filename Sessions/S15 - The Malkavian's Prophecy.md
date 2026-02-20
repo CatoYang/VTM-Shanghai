@@ -6,7 +6,8 @@ Played at Jo's place, Kovan
 20th February 2026
 
 Everyone is present,
-'Ice' Joined the party taking over Yao Li
+Kylie left the group
+'Annice' Joined the party taking over kylie's character, [[Yao Li]]
 
 ---
 
