@@ -5,6 +5,7 @@ tags:
   - S5
 aliases:
   - Ho Fang
+  - Local Mage
 ---
 
 #S5 
