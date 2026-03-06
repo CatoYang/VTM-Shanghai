@@ -42,7 +42,7 @@ The broker, [[Wu shao Ting]] claims that he is a broker to help japanese invest 
 He zhen also talks to [[Sun Ze Ming]] and mesmerises him, asks 'whats the situation between the KMT and the japanese'. He replies that there is no situation, and claims that he is here to broker relationship for the KMT so in the future there the japanese might help them in the push north.
 As a last command, tells him to spill wine on himself.
 
-[[Masaki Condo]] is introduced to [[Yao Li]] by [[Hayashi Nobura]]. She tries to seduce him, but has a messy critical.
+[[Masaki Kondo]] is introduced to [[Yao Li]] by [[Hayashi Nobura]]. She tries to seduce him, but has a messy critical.
 He is charmed but tells yao li that she is a 'interesting biological speciment' and says that 'you people can do this'.
 He says that his people have been "observing you" for a while.
 She attempts a premonition and sees 2 possible futures. One where she is restrained and with men in biohazard gear, and another where she is talking to a doctor and surrounded by blood vials. 
