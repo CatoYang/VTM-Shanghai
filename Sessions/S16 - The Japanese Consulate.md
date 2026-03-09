@@ -63,7 +63,7 @@ She says that [[Ayako]] led a attack on the turkish opium and that [[Zhou Yu]]'s
 
 ---
 
-[[Moi Yan]] talks to the seller of the vase and finds out that Major [[Sheng]], aide to the warlord [[Lu]].
+[[Moi Yan]] talks to the seller of the vase and finds out that Major [[Sheng]], aide to the warlord [[Lu Yong Xiang]].
 bought the vase.
 We manage to find out the guarded compound. and [[Fille]] and [[Zhou Haoran]] break in with a fake vase. We stole it and but [[Zhou Haoran]] was spotted and almost shot to death.
 
