@@ -4,6 +4,8 @@ tags:
   - S3
   - Tremere
   - Camarilla
+aliases:
+  - Xu Wen Jie †
 ---
 Clan: [[Tremere (九印门 - Jiǔ Yìn Mén)]]  
 Sire: [[Li Xuan]]  

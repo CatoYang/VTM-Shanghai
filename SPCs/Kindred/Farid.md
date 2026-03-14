@@ -4,6 +4,7 @@ tags:
   - Camarilla
 aliases:
   - Fang Liu
+  - Tao Wu Priest
 ---
 
 Clan: [[Banu Haqim (判官堂 - Pàn Guān Táng)]]  
@@ -21,3 +22,5 @@ speaks fluent Mandarin, Cantonese, Shanghainese and English.
 Domain is in old city.
 
 
+S18 
+Ascends as Tao wu Priest

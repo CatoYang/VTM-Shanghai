@@ -17,6 +17,6 @@ The Chinese Brujahs
 [[Lian Na]]
 
 The Nightfront
-[[Wong Ka Ming]]  - Also part of the Nightfront and [[Temple of Tao Wu]]
+[[Wong Ka Ming|Wong Ka Ming †]]- Also part of the Nightfront and [[Temple of Tao Wu]]
 [[Qiu Jin]] - Previous Primogen, split off to the Nightfront
 

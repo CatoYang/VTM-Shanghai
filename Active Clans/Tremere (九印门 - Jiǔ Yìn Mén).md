@@ -4,4 +4,4 @@ Hierarchical sorcerers blending Western blood magic with Daoist talismans and al
 
 Members  
 [[Li Xuan]]  
-[[Xu Wen Jie]]  
+[[Xu Wen Jie|Xu Wen Jie †]]

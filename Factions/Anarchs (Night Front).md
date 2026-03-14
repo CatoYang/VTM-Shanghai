@@ -5,6 +5,6 @@ The Nightfront controls territory to the north of the coterie in zhabei. They ar
 Members
 [[Iron Claw]] - Leader of Local Nightfront
 [[Qiu Jin]] - Ex-Primogen of the brujahs
-[[Wong Ka Ming]] - Acolyte of tao wu
+[[Wong Ka Ming|Wong Ka Ming †]] - Acolyte of tao wu
 [[Zhang Bo]] 'No Neck' Fighter
 [[Jiang Yi]] - Enforcer contesting hongkee against the japanese

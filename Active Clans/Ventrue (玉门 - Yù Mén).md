@@ -3,13 +3,13 @@ Aka - Jade House
 Aristocrats, merchant princes, and bureaucrats. They claim the mandate to rule, embodying Confucian hierarchy and wealth. Controllers of trade, politics, and social order; the pillars of Shanghai’s Kindred elite.
 
 Members  
-[[Li wan chen]] -  Camarilla Prince
+[[Li wan chen|Li wan chen †]] -  Camarilla Prince
 [[Zhao Li Ling]] - Camarilla Leader/ Seneschal
 [[Helena Smith]]  
 [[Liu Jianyu]]  
 [[Wen Yuheng]]  
 [[Liang Yiating]]  
-[[Zhou Yu]]
+[[Zhou Yu|Zhou Yu †]]
 
 Players
 [[Moi Yan]]
