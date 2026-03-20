@@ -3,7 +3,7 @@ tags:
   - "#S18"
 ---
 Played at Jo's place, Kovan
-14th March 2026
+13th March 2026
 
 Everyone is present
 
