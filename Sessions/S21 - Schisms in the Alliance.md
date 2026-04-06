@@ -35,7 +35,7 @@ He is outraged at the incident and retreats to a private room. [[He Zhen]] inter
 
 [[Zhou Haoran]] attempts to break into the general's mansion while he is away at the brothel to steal his sword and is successful. He then brings it to a swordsmith to sabotage and sneaks back in to return the sword without detection.
 
-[[He Zhen]] then goes to to the general's soothsayer to subvert him and learn that the soothsayer has genuine foresight and claims that he should have died 2 years ago and that she needs to avoid someone named [[Tang]]. With soporific touch and mesmerise he incepts a message to scare the general into backing off the merchants through superstition and the soothsayer's words.
+[[He Zhen]] then goes to to the general's soothsayer, [[Master Dao]], to subvert him and learn that the soothsayer has genuine foresight and claims that he should have died 2 years ago and that she needs to avoid someone named [[Tang]]. With soporific touch and mesmerise he incepts a message to scare the general into backing off the merchants through superstition and the soothsayer's words.
 
 Days later the sword breaks and the merchants' burden is lifted.
 
