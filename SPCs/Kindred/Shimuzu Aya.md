@@ -9,3 +9,5 @@ Sire: [[Takahashi Renjiro]]
 
 #S5 
 was investigating the opium den fires in the old city
+
+Has a ghoul, [[Ayako]]

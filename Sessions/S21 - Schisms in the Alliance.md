@@ -1,3 +1,7 @@
+---
+tags:
+  - S21
+---
 Played at Jo's place, Kovan
 All present
 3rd April 2026

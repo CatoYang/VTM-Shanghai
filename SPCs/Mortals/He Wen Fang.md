@@ -13,3 +13,7 @@ A local mage living in shanghai implicated in the [[Li wan chen|Prince]]'s disap
 Said to be very dangerous, living in shanghai for the past 10 years.
 
 His domain might be known to primogens but its mostly unknown to us
+
+---
+
+His domain is revealed to be in the old city and he has a cult
