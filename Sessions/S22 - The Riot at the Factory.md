@@ -40,7 +40,7 @@ We learn he is a mortal agent of [[Madam Meixiu Chanel]], and has run numerous m
 Timeskip, to March 12
 
 [[Sun Yat-sen]] dies in beijing
-Mourning happens and  wang ji wei 'baby face'. takes over but there is unease as he is closer to the comminist. On the other end 'Hu hamin' advocating for the KMT and CCP to split.
+Mourning happens and  [[Wang Jingwei]] 'baby face'. takes over but there is unease as he is closer to the comminist. On the other end [[Hu Hanmin]] advocating for the KMT and CCP to split.
 
 [[Moi Yan]] goes to  a meeting of the chamber of commerce. 
 There are a few people on the board
@@ -60,8 +60,8 @@ The green gang gave money to and hosted [[Chiang Kai-shek]] previously and says 
 
 [[Madam Meixiu Chanel]] Meets with [[Yao Li]] and wants her to meet with the seniority of the KMT.
 There will be a party and there is two people
-- There is colonel 'peng' who represents Hu
-- There is Mr 'song' who represents 'babyface'
+- There is colonel 'peng' who represents [[Hu Hanmin]]
+- There is Mr 'song' who represents [[Wang Jingwei]]
 Asks that she represent influential people in the french concession.
 Colonel peng is in his forties and speaks with a cantonese accent.
 He is happy that the french have hosted this party.
