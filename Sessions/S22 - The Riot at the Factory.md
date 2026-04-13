@@ -44,13 +44,13 @@ Mourning happens and  [[Wang Jingwei]] 'baby face'. takes over but there is unea
 
 [[Moi Yan]] goes to  a meeting of the chamber of commerce. 
 There are a few people on the board
-- Mr yu xiao qing, british shipping tycoon, head of the chamber (also knows her father)
-- Zhang jia ren, CEO of the bank of china
-- Shen pi hua, Chinese tycoons in finance in real estate
+- Mr [[Yu Xiaqing]], british shipping tycoon, head of the chamber (also knows her father)
+- [[Zhang Jia'ao]] CEO of the bank of china
+- [[Sheng Pihua]], Chinese tycoons in finance in real estate
 [[Moi Yan]] meets with shen and he is mourning over [[Sun Yat-sen]]
-He says luo wei ming, a KMT senior is asking for money and hopes that she donates generously.
-[[Moi Yan]] talks to Mr Yu Xiao Qing, and discuss the discourse in zhabei and say that its a little more violent and unfortunate. She probes him whether there is foreign influence and suggests japanese, he replies and suggests russain and is confused about this. He gives a diplomatic answer.
-Zhang jia ren approaches [[Moi Yan]] and mentions that she opened a new bank. He advocates for her to help [[Du Yuesheng]], and asks why she decided to go to business with a gangster. They talk and he offers help 'we bankers should help each other'
+He says [[Luo Weiming]], a KMT senior is asking for money and hopes that she donates generously.
+[[Moi Yan]] talks to Mr [[Yu Xiaqing]], and discuss the discourse in zhabei and say that its a little more violent and unfortunate. She probes him whether there is foreign influence and suggests japanese, he replies and suggests russain and is confused about this. He gives a diplomatic answer.
+[[Zhang Jia'ao]] approaches [[Moi Yan]] and mentions that she opened a new bank. He advocates for her to help [[Du Yuesheng]], and asks why she decided to go to business with a gangster. They talk and he offers help 'we bankers should help each other'
 Luo gives a speech in the end and asks for money from the chamber. He wants to raise 100k. 250k was collected. [[Moi Yan]] gives a token check.
 
 Haoran meets [[Huang Jinrong|Pockmarked Huang]] in his villa in the french concession. There is talk about the uncertainty. He says that there will be need for muscle and we will be sought out for between the two factions contesting the vacuum that [[Sun Yat-sen]] left.
@@ -60,18 +60,18 @@ The green gang gave money to and hosted [[Chiang Kai-shek]] previously and says 
 
 [[Madam Meixiu Chanel]] Meets with [[Yao Li]] and wants her to meet with the seniority of the KMT.
 There will be a party and there is two people
-- There is colonel 'peng' who represents [[Hu Hanmin]]
-- There is Mr 'song' who represents [[Wang Jingwei]]
+- There is [[Colonel Peng Shaohua]] who represents [[Hu Hanmin]]
+- There is [[Song Mingzhi]] who represents [[Wang Jingwei]]
 Asks that she represent influential people in the french concession.
 Colonel peng is in his forties and speaks with a cantonese accent.
 He is happy that the french have hosted this party.
 They talk and he asks what does she think of the communist.
 She says that shanghai should not be ruled just by chinese. She claims that whatever that will allow shanghai rise to a proper state. She might have offended him because that would involve the russian communist.
 She uses premonition on Mr song and sees a vision of him talking to the communist at the shanghai club..
-She talks to Mr song and he is grieving for [[Sun Yat-sen]]. She fakes grief and cries.
+She talks to [[Song Mingzhi|Mr Song]] and he is grieving for [[Sun Yat-sen]]. She fakes grief and cries.
 He asks questions about communism and ask who should lead china, the rich or the people. 
 He hopes that all will support wang/babyface.
-[[Madam Meixiu Chanel]] suggests that she should continue keeping in touch with mr song
+[[Madam Meixiu Chanel]] suggests that she should continue keeping in touch with [[Song Mingzhi|Mr Song]]
 
 
 
