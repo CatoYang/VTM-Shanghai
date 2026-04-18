@@ -6,9 +6,8 @@ tags:
 Player: Yang Peng  
 Clan: [[Banu Haqim (判官堂 - Pàn Guān Táng)]]  
 Sire: [[Farid]]  
-Generation: 11th  
+Generation: 10th (previously 11th)  
 Feeding Grounds: Old City (alleycat)  
-
 
 [Online Sheet]([https://drive.google.com/file/d/1D2uU8QOm4RIoN00RoREM1z6vARa3KXfe/view?usp=drive_link)
 
@@ -57,18 +56,8 @@ Disciplines (level x 5 cost)
 	**Blood Sorcery**
 	- **A Taste for Blood**
 	- **Scour Secrets**
-	- Scorpion's Touch (3)
-	- Blood Aegis (4)
 	**Blood sorcery Rituals** (level x 3 cost)
-	- Blood Walk (1)
 	- **Craft Bloodstone** 
 	- **Illuminate Trial of Prey**
-	- Soporific Touch (2)
-	- Silentia Mortis (2)
-	- ~~Shroud of Silence (2)~~
-	- Truth of Blood (2)
-	- ~~Bladed Hands (3)~~
-	- Essence of Air (3)
-	- Eyes of the Past (3)
-	- Innocence's Veil (4)
+	- **Soporific Touch**
 

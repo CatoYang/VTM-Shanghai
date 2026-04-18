@@ -3,16 +3,16 @@ tags:
   - S23
 ---
 Team boardgame Level 6 Shop, Macpherson
-Jo joining online from Kazahkstan
+Jo joining online from Kazakhstan, everyone present.
 17th April 2026
 
 ---
 
-Retcon, we decided to leave [[SPCs/Mortals/Tang|Tang]] to [[Wen Yuheng]].
+Retcon, we decided to not subvert [[SPCs/Mortals/Tang|Tang]], as [[He Zhen]] consults [[Wen Yuheng]], and the sire asks to hand him over for he himself to subvert.
 
 [[He Zhen]]'s handler finds him and tells him that the communist will use the death of [[Sun Yat-sen]] and is asked to spy on them. 
-[[West Shanghai Workers Club]] invited her to a meeting. He meets [[Chen Fuguai]] li hua, and sun liang Li li san is supposedly respected at this club, and advocates the communists is carrying [[Sun Yat-sen]]'s will. [[He Zhen]]'s standing increases with the communists
-There is talk about japanese injustice as well, the workers are also being squeezed.
+[[West Shanghai Workers Club]] invited her to a meeting. He meets [[Chen Fuguai]] li hua, and sun liang Li li san is supposedly respected at this club, and advocates that the communists is carrying [[Sun Yat-sen]]'s will. [[He Zhen]]'s standing increases with the communists
+There is talk about japanese injustice as well, where the squeezing of the working class does not differentiate between racial lines
 
 [[Zhou Haoran]]'s criminal empire expands greatly in zhabei, inducting tongs into the green gang, even clashing with the other local green gang there.
 
@@ -43,7 +43,7 @@ They manage to get to the safe of [[Hong Yee]].
 paper supplier in zhabei.
 Bank of china account to ming he trading, a lot of money flowing into.
 They go to the paper supplier and find that its actually a teahouse in zhabei. The three willows, and find that the owner (Mr Fong) is from fujian and selling good tea.
-[[Yao Li]] scrys his soul and finds that its a transactional agreement and it has lasted 21 years  he resents someone, and feels that he is not respected well enough. The person he resents is 'peng' and he is probably [[Hong Yee]]'s ghoul
+[[Yao Li]] scrys his soul and finds that its a transactional agreement and it has lasted 21 years. He resents someone, and feels that he is not respected well enough. The person he resents is probably [[Hong Yee]]'s ghoul. She then sways him by offering him a place in her network...with a new title.
 
 
 
