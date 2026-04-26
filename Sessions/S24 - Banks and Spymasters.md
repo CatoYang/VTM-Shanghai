@@ -1,5 +1,4 @@
 ---
-draft: false
 tags:
   - S24
 ---
@@ -27,10 +26,22 @@ The group routes and 10 green gang man die. The press burn down, but the other p
 Team [[Toreador (百花 - Bǎi Huā)]] goes subverting Mr Fong.
 [[Yao Li]] offers him a place in her information network (in old crows network) and subverts him
 
-They follow the second lead shen ming xuan, deputy director of commerce and trade in the shanghai municial council. He is married but has no kid and he has a younger mistress "Ms May".
+They follow the second lead [[Shen Ming Xuan]], deputy director of commerce and trade in the shanghai municial council. He is married but has no kid and he has a younger mistress "Ms May".
 Ms May and her son are being shadowed by people. She is the small employee of a government worker.
 [[Yao Li]] takes pictures of him and her mistress, she then brings the pictures to him. And potential blackmail him or help him take out the people who take the pictures.
 She then scrys his soul, and sees a 40s year old forgettable man. 
 She then does a premonition, and sees a vision of [[Yao Li]] and [[Fille]] are escorting the mistress and looking behind their backs at pursuers.
 She managed to convince to swap loyalties if they can get the mistress and the son away to the harbour to be spirited away to safety.
-The team got them away using a mixture of misdirection and clothing swaps.
+The team got them away using a mixture of misdirection and clothing swaps. And 
+
+---
+
+The month passes and on may 15th, during a workers strike and protest. A chinese worker was shot and killed by a guard employed by the Shanghai Naga Wata Kaisha company. 
+
+A week after the killing, a group of students, heading for Gu's public "state" funeral and carrying banners, were arrested while traveling through the International Settlement. With their trial set for 30 May, various student organisations convened in the days before and decided to hold mass demonstrations across the International Settlement
+
+On May 30th, the date of the trial of the students.
+Just after the trial of the arrested students began,  Shanghai Municipal police arrested 15 ringleaders of a student protest being held on and around Nanjing Road and it gathered a large crowd of protesters. In an effort to disperse it, the british fired shots into the crowd.
+
+The protests then started to escalate.....
+
