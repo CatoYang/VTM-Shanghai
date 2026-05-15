@@ -3,7 +3,6 @@ Played at Jo's Place
 Everyone Ice absent
 #S26
 
-
 ---
 
 Team ventrue found out that the british counsel general hired the russian company.
@@ -25,7 +24,6 @@ Fille goes to the other location, 3 houses with a red gate in front of the train
 Fille sent a rat to the occupied houses and he returned and said that there are no openings to the houses.
 she spies and locate [[Li Hua]] and chen da ming inside the house by the time she informs the Captain (from the general) the house is empty.
 On next night they come and raid the house. [[Li Hua]] is captured and fille acomplished her job.
-
 
 ---
 
