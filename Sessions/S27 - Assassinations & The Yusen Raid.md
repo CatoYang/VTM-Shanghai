@@ -1,5 +1,5 @@
 Played at Jo's Place
-15th May 2026
+22th May 2026
 Dzaki Absent
 #S27 
 
