@@ -20,7 +20,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: jackyzha0/quartz
-          ref: v4
           path: quartz
 
       - name: Setup Node
@@ -40,10 +39,10 @@ jobs:
           rm -rf quartz/content/.git quartz/content/.github
           
           # Copy custom quartz config if it exists
-          if [ -f "vault/.github/workflows/quartz/quartz.config.ts" ]; then
-            cp vault/.github/workflows/quartz/quartz.config.ts quartz/quartz.config.ts
-          elif [ -f "vault/.github/quartz/quartz.config.ts" ]; then
-            cp vault/.github/quartz/quartz.config.ts quartz/quartz.config.ts
+          if [ -f "vault/.github/workflows/quartz/quartz.config.yaml" ]; then
+            cp vault/.github/workflows/quartz/quartz.config.yaml quartz/quartz.config.yaml
+          elif [ -f "vault/.github/quartz/quartz.config.yaml" ]; then
+            cp vault/.github/quartz/quartz.config.yaml quartz/quartz.config.yaml
           fi
 
       - name: Install dependencies
