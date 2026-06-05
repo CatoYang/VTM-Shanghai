@@ -16,3 +16,9 @@ She is considered the banker controling interests in the opium trade
 
 One of the oldest kindred, arriving in shanghai during the age of marco polo's travels (13th centuary)
 Has no stake in the power struggles of the veil alliance.
+
+---
+
+found dead in #S29 in a warehouse in nightfront territory near zhabei - hongkew border.
+Was killed then brought to the warehouse.
+She was staked and missing her head
