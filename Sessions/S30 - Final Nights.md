@@ -159,15 +159,12 @@ She wants the rest of the coterie to spring the trap at the race course.
 
 ---
 
----
-
 [[Zhou Haoran]] goes find [[Qiu Jin]] and goes hunting for foreign vampires.
 
 ---
 
 [[Fille]] holds a elysium and no one appears. [[Old Crow]] comes in alone and tells her that he knows of the betrayal and offers a chance, lure the green gang into an ambush.
 She does so and 100 green gang members gets wiped out. [[Old Crow]] is satisfied, and leaves.
-
 
 ---
 
@@ -190,7 +187,7 @@ The ritual requires the death of a primogen, he is betraying that plan of imperi
 [[Fille]] decides to not join taka
 [[He Zhen]] also decides not to join.
 
-
+The Story ends, with each vampire taking a different path
 
 
 
